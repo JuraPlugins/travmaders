@@ -91,24 +91,31 @@ body {
   position: sticky;
   top: 0;
   z-index: 100;
-  background: rgba(10, 14, 23, 0.85);
+  background: rgba(10, 14, 23, 0.92);
   backdrop-filter: blur(16px);
   -webkit-backdrop-filter: blur(16px);
   border-bottom: 1px solid var(--border-color);
-  padding: 0.75rem 1.5rem;
+  padding: 0.65rem 1.5rem 0.55rem;
   transition: var(--transition-normal);
 }
 
 [data-theme="light"] .site-header {
-  background: rgba(248, 250, 252, 0.88);
+  background: rgba(248, 250, 252, 0.94);
 }
 
 .header-container {
-  max-width: 1440px;
+  max-width: 1600px;
   margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+}
+
+.header-top-bar {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  width: 100%;
   gap: 1rem;
 }
 
@@ -122,14 +129,14 @@ body {
 }
 
 .brand-icon {
-  width: 44px;
-  height: 44px;
+  width: 40px;
+  height: 40px;
   border-radius: var(--radius-md);
   background: var(--accent-gradient);
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 1.4rem;
+  font-size: 1.3rem;
   box-shadow: 0 4px 15px rgba(99, 102, 241, 0.4);
   flex-shrink: 0;
 }
@@ -159,13 +166,15 @@ body {
 .top-nav {
   display: flex;
   align-items: center;
-  gap: 0.35rem;
+  justify-content: flex-start;
+  gap: 0.4rem;
   background: rgba(255, 255, 255, 0.03);
-  padding: 0.35rem;
+  padding: 0.3rem 0.5rem;
   border-radius: var(--radius-full);
   border: 1px solid var(--border-color);
-  overflow-x: auto;
-  scrollbar-width: none;
+  overflow-x: visible;
+  flex-wrap: wrap;
+  width: 100%;
 }
 
 .top-nav::-webkit-scrollbar {
@@ -178,7 +187,7 @@ body {
   color: var(--text-secondary);
   font-size: 0.825rem;
   font-weight: 600;
-  padding: 0.45rem 0.95rem;
+  padding: 0.4rem 0.8rem;
   border-radius: var(--radius-full);
   cursor: pointer;
   transition: var(--transition-fast);

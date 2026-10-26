@@ -12,7 +12,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   
   <!-- Master Stylesheet -->
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/style.css?v=2.1">
 </head>
 <body>
 
@@ -21,11 +21,28 @@
        ======================================================================== -->
   <header class="site-header">
     <div class="header-container">
-      <div class="brand-wrapper" onclick="switchTab('overview')">
-        <div class="brand-icon">🧠</div>
-        <div class="brand-text">
-          <h1>PSYC 4115: Travma Psikolojisi</h1>
-          <div class="brand-meta">Dr. Cansu Aykaç Kemik • Klinik Nöropsikoloji</div>
+      <div class="header-top-bar">
+        <div class="brand-wrapper" onclick="switchTab('overview')">
+          <div class="brand-icon">🧠</div>
+          <div class="brand-text">
+            <h1>PSYC 4115: Travma Psikolojisi</h1>
+            <div class="brand-meta">Dr. Cansu Aykaç Kemik • Klinik Nöropsikoloji</div>
+          </div>
+        </div>
+
+        <div class="header-actions">
+          <button class="btn-fast-pass" id="pass-all-btn" onclick="passAllQuizzes()" title="Tüm 105 Testi ve Final Sınavını %100 Çözerek Geç">
+            <span>⚡</span> Testleri Geç (%100)
+          </button>
+          <button class="btn-booklet-trigger" onclick="openStudyBooklet()" title="105 Sorunun Açıklamalı Çözüm Kitapçığını Aç">
+            <span>📖</span> Soru Kitapçığı
+          </button>
+          <button class="action-icon-btn" id="sound-btn" onclick="toggleSound()" title="Ses Efektlerini Aç/Kapat">
+            <span id="sound-icon">🔔</span>
+          </button>
+          <button class="action-icon-btn" id="theme-btn" onclick="toggleTheme()" title="Karanlık/Aydınlık Tema">
+            <span id="theme-icon">🌙</span>
+          </button>
         </div>
       </div>
 
@@ -61,21 +78,6 @@
           <span>📊</span> Başarı Takibi
         </button>
       </nav>
-
-      <div class="header-actions">
-        <button class="btn-fast-pass" id="pass-all-btn" onclick="passAllQuizzes()" title="Tüm 105 Testi ve Final Sınavını %100 Çözerek Geç">
-          <span>⚡</span> Testleri Geç (%100)
-        </button>
-        <button class="btn-booklet-trigger" onclick="openStudyBooklet()" title="105 Sorunun Açıklamalı Çözüm Kitapçığını Aç">
-          <span>📖</span> Soru Kitapçığı
-        </button>
-        <button class="action-icon-btn" id="sound-btn" onclick="toggleSound()" title="Ses Efektlerini Aç/Kapat">
-          <span id="sound-icon">🔔</span>
-        </button>
-        <button class="action-icon-btn" id="theme-btn" onclick="toggleTheme()" title="Karanlık/Aydınlık Tema">
-          <span id="theme-icon">🌙</span>
-        </button>
-      </div>
     </div>
   </header>
 
