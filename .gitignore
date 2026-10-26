@@ -1,0 +1,12 @@
+# Ignore large PowerPoint binary presentations (ABUtrauma4.pptx is >100MB and exceeds GitHub upload limits)
+*.pptx
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

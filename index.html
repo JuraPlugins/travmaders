@@ -1,0 +1,722 @@
+<!DOCTYPE html>
+<html lang="tr" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PSYC 4115: Travma Psikolojisi | Kapsamlı Ders & İnteraktif Sınav Portalı</title>
+  <meta name="description" content="The Psychology of Trauma (PSYC 4115) dersi için 4 kaynak sunum baz alınarak hazırlanmış kavram tabloları, 60 bilgi kartı, klinik vaka simülatörü, karşılaştırma matrisleri, 80 modül sorusu ve 25 soruluk orta-zor Final Sınavı. Her şıkkın ayrıntılı mantıksal analizi ile tam etkileşimli ders sitesi.">
+  
+  <!-- Google Fonts: Plus Jakarta Sans -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  
+  <!-- Master Stylesheet -->
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- ========================================================================
+       TOP HEADER & MAIN NAVIGATION
+       ======================================================================== -->
+  <header class="site-header">
+    <div class="header-container">
+      <div class="brand-wrapper" onclick="switchTab('overview')">
+        <div class="brand-icon">🧠</div>
+        <div class="brand-text">
+          <h1>PSYC 4115: Travma Psikolojisi</h1>
+          <div class="brand-meta">Dr. Cansu Aykaç Kemik • Klinik Nöropsikoloji</div>
+        </div>
+      </div>
+
+      <nav class="top-nav" aria-label="Ana Gezinti Menüsü">
+        <button class="nav-btn active" data-tab="overview" onclick="switchTab('overview')">
+          <span>🏠</span> Ders Rehberi
+        </button>
+        <button class="nav-btn" data-tab="source1" onclick="switchTab('source1')">
+          <span>📚</span> Kaynak 1
+        </button>
+        <button class="nav-btn" data-tab="source2" onclick="switchTab('source2')">
+          <span>🧠</span> Kaynak 2
+        </button>
+        <button class="nav-btn" data-tab="source3" onclick="switchTab('source3')">
+          <span>⚡</span> Kaynak 3
+        </button>
+        <button class="nav-btn" data-tab="source4" onclick="switchTab('source4')">
+          <span>📋</span> Kaynak 4
+        </button>
+        <button class="nav-btn" data-tab="flashcards" onclick="switchTab('flashcards')" style="color: #a5b4fc;">
+          <span>🗂️</span> Bilgi Kartları (60)
+        </button>
+        <button class="nav-btn" data-tab="cases" onclick="switchTab('cases')" style="color: #34d399;">
+          <span>🩺</span> Vaka Laboratuvarı
+        </button>
+        <button class="nav-btn" data-tab="matrices" onclick="switchTab('matrices')" style="color: #38bdf8;">
+          <span>📑</span> Karşılaştırma & Notlar
+        </button>
+        <button class="nav-btn nav-exam" data-tab="final" onclick="switchTab('final')">
+          <span>🎓</span> Final Sınavı (25 Soru)
+        </button>
+        <button class="nav-btn" data-tab="stats" onclick="switchTab('stats')">
+          <span>📊</span> Başarı Takibi
+        </button>
+      </nav>
+
+      <div class="header-actions">
+        <button class="btn-fast-pass" id="pass-all-btn" onclick="passAllQuizzes()" title="Tüm 105 Testi ve Final Sınavını %100 Çözerek Geç">
+          <span>⚡</span> Testleri Geç (%100)
+        </button>
+        <button class="btn-booklet-trigger" onclick="openStudyBooklet()" title="105 Sorunun Açıklamalı Çözüm Kitapçığını Aç">
+          <span>📖</span> Soru Kitapçığı
+        </button>
+        <button class="action-icon-btn" id="sound-btn" onclick="toggleSound()" title="Ses Efektlerini Aç/Kapat">
+          <span id="sound-icon">🔔</span>
+        </button>
+        <button class="action-icon-btn" id="theme-btn" onclick="toggleTheme()" title="Karanlık/Aydınlık Tema">
+          <span id="theme-icon">🌙</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- ========================================================================
+       MAIN APPLICATION WORKSPACE
+       ======================================================================== -->
+  <main class="main-container">
+
+    <!-- ======================================================================
+         TAB 0: DERS REHBERİ & GENEL BAKIŞ (OVERVIEW)
+         ====================================================================== -->
+    <section class="tab-pane active" id="tab-overview">
+      <div class="hero-card">
+        <div class="hero-grid">
+          <div class="hero-content">
+            <span class="hero-badge">🎓 Lisans / Lisansüstü Düzey • PSYC 4115</span>
+            <h2>Travma Psikolojisi İnteraktif Eğitim, Vaka & Sınav Portalı</h2>
+            <p class="hero-desc">
+              Bu platform, <strong>Dr. Cansu Aykaç Kemik</strong> ve <strong>Dr. Ömer Orhun Ercan</strong> tarafından verilen 4 ana ders sunumunun (ABUtrauma 1-2, 3, 4 ve 5) eksiksiz bir sentezidir. <strong>Kavram Tabloları</strong>, <strong>60 Akıllı Bilgi Kartı</strong>, <strong>Klinik Vaka Simülatörü</strong>, <strong>Karşılaştırma Matrisleri</strong>, <strong>80 Modül Sorusu</strong> ve <strong>25 Soruluk Orta-Zor Final Sınavı</strong> içermektedir.
+            </p>
+            
+            <div class="hero-stats-row">
+              <div class="stat-chip">
+                <span class="stat-chip-icon">📑</span>
+                <div class="stat-chip-text">
+                  <div class="stat-num">4 Sunum</div>
+                  <div class="stat-lbl">109 Slayt Analizi</div>
+                </div>
+              </div>
+              <div class="stat-chip">
+                <span class="stat-chip-icon">🗂️</span>
+                <div class="stat-chip-text">
+                  <div class="stat-num">60 Kart</div>
+                  <div class="stat-lbl">3D Bilgi Kartı</div>
+                </div>
+              </div>
+              <div class="stat-chip">
+                <span class="stat-chip-icon">🩺</span>
+                <div class="stat-chip-text">
+                  <div class="stat-num">Klinik Vaka</div>
+                  <div class="stat-lbl">Adım Adım Simülatör</div>
+                </div>
+              </div>
+              <div class="stat-chip">
+                <span class="stat-chip-icon">🎯</span>
+                <div class="stat-chip-text">
+                  <div class="stat-num" id="hero-total-progress">0 / 105</div>
+                  <div class="stat-lbl">Çözülen Soru Bankası</div>
+                </div>
+              </div>
+              <div class="stat-chip">
+                <span class="stat-chip-icon">💡</span>
+                <div class="stat-chip-text">
+                  <div class="stat-num">100%</div>
+                  <div class="stat-lbl">Her Şıkkın Mantık Yolu</div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="hero-actions">
+            <button class="btn-primary" onclick="switchTab('source1')">
+              <span>🚀</span> Kaynak 1 ile Başla
+            </button>
+            <button class="btn-secondary" onclick="switchTab('flashcards')">
+              <span>🗂️</span> Bilgi Kartlarını Aç
+            </button>
+            <button class="btn-secondary" onclick="switchTab('cases')">
+              <span>🩺</span> Vaka Simülatörünü Aç
+            </button>
+            <button class="btn-primary" style="background: linear-gradient(135deg, #f59e0b 0%, #ea580c 100%);" onclick="switchTab('final')">
+              <span>🏆</span> Final Sınavına Gir
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Quick Pass & Exam Readiness Alert Banner -->
+      <div class="quick-pass-banner">
+        <div class="quick-pass-info">
+          <div class="quick-pass-icon">⚡</div>
+          <div>
+            <h4>Hızlı Sınav Hazırlığı: Testleri Otomatik Geç (%100 Başarı)</h4>
+            <p>
+              105 sorunun tamamını tek tıkla %100 doğru olarak çözebilir, tüm şık gerekçelerini ve çeldirici analizlerini anında açabilir ya da kapsamlı Soru & Çözüm Kitapçığında listeleyebilirsiniz.
+            </p>
+          </div>
+        </div>
+        <div class="quick-pass-actions">
+          <button class="btn-primary" style="background: #10b981; color: white; border: none; font-weight: 700;" onclick="passAllQuizzes()">
+            ⚡ Tüm Testleri Geç (%100)
+          </button>
+          <button class="btn-secondary" style="font-weight: 700;" onclick="openStudyBooklet()">
+            📖 Soru & Çözüm Kitapçığı
+          </button>
+        </div>
+      </div>
+
+      <!-- Quick Study Tools Row -->
+      <h3 class="section-title">
+        <span>⚡</span> İnteraktif Çalışma Araçları
+      </h3>
+      <div class="modules-grid" style="grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); margin-bottom: 2rem;">
+        <div class="source-card" style="border-color: rgba(99, 102, 241, 0.4);" onclick="switchTab('flashcards')">
+          <div class="source-header">
+            <span class="source-pill pill-s1">Ezber & Tekrar</span>
+            <span class="source-meta-tag">60 Akıllı Kart</span>
+          </div>
+          <h3>3D Çevirmeli Bilgi Kartları</h3>
+          <p>Kriter A, HPA ekseni, McLaughlin boyutları, O'Leary seyirleri ve ölçek maddelerini çevirip Leitner sistemiyle hızlıca ezberleyin.</p>
+          <div class="source-card-footer">
+            <span class="card-cta-btn">Kartları Çalış →</span>
+          </div>
+        </div>
+
+        <div class="source-card" style="border-color: rgba(16, 185, 129, 0.4);" onclick="switchTab('cases')">
+          <div class="source-header">
+            <span class="source-pill pill-s2">Klinik Karar</span>
+            <span class="source-meta-tag">Simülasyon</span>
+          </div>
+          <h3>İnteraktif Klinik Vaka Laboratuvarı</h3>
+          <p>Deprem kazazedesinden olay yeri polisine gerçek hasta anamnezlerini okuyun, adım adım tanı koyun ve klinik gerekçeleri inceleyin.</p>
+          <div class="source-card-footer">
+            <span class="card-cta-btn" style="color: var(--accent-emerald);">Vakaları Çöz →</span>
+          </div>
+        </div>
+
+        <div class="source-card" style="border-color: rgba(6, 182, 212, 0.4);" onclick="switchTab('matrices')">
+          <div class="source-header">
+            <span class="source-pill pill-s3">Hızlı Notlar</span>
+            <span class="source-meta-tag">Karşılaştırma</span>
+          </div>
+          <h3>Karşılaştırma Matrisleri & Kritik Notlar</h3>
+          <p>ASB vs TSSB, DSM-5-TR vs ICD-11, Sempatik vs Parasempatik organ haritası ve sınavda %100 çıkacak 10 kritik bilgi.</p>
+          <div class="source-card-footer">
+            <span class="card-cta-btn" style="color: var(--accent-cyan);">Matrisleri Gör →</span>
+          </div>
+        </div>
+      </div>
+
+      <h3 class="section-title">
+        <span>📚</span> Kaynak Modülleri & Soru Bankası
+      </h3>
+
+      <div class="modules-grid">
+        <!-- Module Card 1 -->
+        <div class="source-card" onclick="switchTab('source1')">
+          <div class="source-header">
+            <span class="source-pill pill-s1">Kaynak 1 • Hafta 1-2</span>
+            <span class="source-meta-tag">ABUtrauma1ve2_Engl</span>
+          </div>
+          <h3>Psikolojik Travmaya Giriş, Travma Türleri & Çocukluk Çağı</h3>
+          <p>Kriter A nesnel sınırları, peritravmatik tepkiler, kolektif travma, ikincil travmatik stres, McLaughlin & Sheridan çocukluk adversite boyutları ve DSM tarihçesi.</p>
+          <div class="source-features">
+            <span class="feature-tag">📑 12 Temel Kavram</span>
+            <span class="feature-tag">📝 20 Soru</span>
+            <span class="feature-tag">🔍 Şık Analizleri</span>
+          </div>
+          <div class="source-card-footer">
+            <span class="source-progress-text" id="overview-progress-source1">0/20 Soru Çözüldü</span>
+            <span class="card-cta-btn">Modüle Git →</span>
+          </div>
+        </div>
+
+        <!-- Module Card 2 -->
+        <div class="source-card" onclick="switchTab('source2')">
+          <div class="source-header">
+            <span class="source-pill pill-s2">Kaynak 2 • Hafta 3</span>
+            <span class="source-meta-tag">ABUtrauma3.pptx</span>
+          </div>
+          <h3>Travma Tepkileri, TSSB, Büyüme (PTG) & Risk Faktörleri</h3>
+          <p>O'Leary 3 işlevsellik seyri, ASB-TSSB %83 geçiş riski, Tedeschi & Calhoun'un 5 büyüme boyutu, pre/peri/post-travmatik riskler ve 17 Ağustos Marmara Depremi verileri.</p>
+          <div class="source-features">
+            <span class="feature-tag">📑 12 Temel Kavram</span>
+            <span class="feature-tag">📝 20 Soru</span>
+            <span class="feature-tag">🔍 Şık Analizleri</span>
+          </div>
+          <div class="source-card-footer">
+            <span class="source-progress-text" id="overview-progress-source2">0/20 Soru Çözüldü</span>
+            <span class="card-cta-btn">Modüle Git →</span>
+          </div>
+        </div>
+
+        <!-- Module Card 3 -->
+        <div class="source-card" onclick="switchTab('source3')">
+          <div class="source-header">
+            <span class="source-pill pill-s3">Kaynak 3 • Hafta 4</span>
+            <span class="source-meta-tag">ABUtrauma4.pptx</span>
+          </div>
+          <h3>Otonom Sinir Sistemi, HPA Ekseni, ASB Kriterleri & Tarihçe</h3>
+          <p>Sempatik vs Parasempatik sistem, CRH-ACTH-Kortizol kaskadı, amigdala-PFC-hipokampus devreleri, ASB'de 9/14 kuralı ve Herodotus'tan Pepys'e, Shell Shock'a tarihsel evrim.</p>
+          <div class="source-features">
+            <span class="feature-tag">📑 14 Temel Kavram</span>
+            <span class="feature-tag">📝 20 Soru</span>
+            <span class="feature-tag">🔍 Şık Analizleri</span>
+          </div>
+          <div class="source-card-footer">
+            <span class="source-progress-text" id="overview-progress-source3">0/20 Soru Çözüldü</span>
+            <span class="card-cta-btn">Modüle Git →</span>
+          </div>
+        </div>
+
+        <!-- Module Card 4 -->
+        <div class="source-card" onclick="switchTab('source4')">
+          <div class="source-header">
+            <span class="source-pill pill-s4">Kaynak 4 • Hafta 5</span>
+            <span class="source-meta-tag">ABUtrauma5.pptx</span>
+          </div>
+          <h3>DSM-5-TR Kriter Setleri, Disosiasyon & Klinik Ölçekler</h3>
+          <p>Kriter B (İntrüzyon), C (Kaçınma), D (Olumsuz Biliş), E (Uyarılma), Depersonalizasyon/Derealizasyon alt tipi, PDEQ, LEC-5, CTQ'nun 5 alt boyutu ve altın standartlar.</p>
+          <div class="source-features">
+            <span class="feature-tag">📑 12 Temel Kavram</span>
+            <span class="feature-tag">📝 20 Soru</span>
+            <span class="feature-tag">🔍 Şık Analizleri</span>
+          </div>
+          <div class="source-card-footer">
+            <span class="source-progress-text" id="overview-progress-source4">0/20 Soru Çözüldü</span>
+            <span class="card-cta-btn">Modüle Git →</span>
+          </div>
+        </div>
+
+        <!-- Final Exam Card -->
+        <div class="source-card" style="border-color: rgba(245, 158, 11, 0.4); background: linear-gradient(135deg, rgba(245, 158, 11, 0.05) 0%, rgba(19, 27, 46, 0.95) 100%);" onclick="switchTab('final')">
+          <div class="source-header">
+            <span class="source-pill pill-final">Final Sınavı • Kapsamlı</span>
+            <span class="source-meta-tag">Orta - Zor Düzey</span>
+          </div>
+          <h3 style="color: #fbbf24;">4 Kaynağın Bütünleşik Final Sınavı</h3>
+          <p>Klinik vaka senaryoları, ayırıcı tanı nüansları (ASB vs TSSB vs CPTSD), HPA nörobiyolojik kaskadları, ölçek puanlama yorumları ve sentez soruları.</p>
+          <div class="source-features">
+            <span class="feature-tag" style="color: #fbbf24; border-color: rgba(245, 158, 11, 0.3);">🎓 25 Zorlu Vaka Sorusu</span>
+            <span class="feature-tag">⏱️ 40 Dk Süreli Sınav Modu</span>
+            <span class="feature-tag">💡 %100 Mantık Açıklamalı</span>
+          </div>
+          <div class="source-card-footer">
+            <span class="source-progress-text" id="overview-progress-final">0/25 Soru Çözüldü</span>
+            <span class="card-cta-btn" style="color: #fbbf24;">Sınava Başla →</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ======================================================================
+         TAB 1: KAYNAK 1 (ABUtrauma1ve2_Engl)
+         ====================================================================== -->
+    <section class="tab-pane" id="tab-source1">
+      <div class="module-header-banner">
+        <div class="module-header-info">
+          <span class="source-pill pill-s1">Kaynak 1 • ABUtrauma1ve2_Engl.pptx</span>
+          <h2>Giriş, Travma Türleri ve Çocukluk Çağı</h2>
+          <p>Kriter A maruziyet modları, peritravmatik süreçler, kolektif/ikincil travma, McLaughlin & Sheridan çocukluk adversite boyutları ve DSM evrimi.</p>
+        </div>
+        <div class="subtab-nav">
+          <button class="subtab-btn active" data-subtab="concepts" onclick="switchSubTab('source1', 'concepts')">
+            <span>📑</span> Kavram Tablosu
+          </button>
+          <button class="subtab-btn" data-subtab="quiz" onclick="switchSubTab('source1', 'quiz')">
+            <span>📝</span> 20 Çoktan Seçmeli Test
+          </button>
+        </div>
+      </div>
+
+      <!-- Concepts View -->
+      <div class="module-concepts-view">
+        <div class="concept-toolbar">
+          <div class="search-input-wrapper">
+            <span class="search-icon">🔍</span>
+            <input type="text" placeholder="Kaynak 1 kavramlarında ara (ör. Kriter A, Kolektif, Tehdit, Shell Shock)..." oninput="handleConceptSearch('source1', this.value)">
+          </div>
+          <div class="category-filter-chips">
+            <button class="cat-chip active" data-cat="all" onclick="handleConceptCategory('source1', 'all')">Tümü</button>
+            <button class="cat-chip" data-cat="Temel Tanım & Kriter" onclick="handleConceptCategory('source1', 'Temel Tanım & Kriter')">Tanım & Kriter</button>
+            <button class="cat-chip" data-cat="Gelişimsel Model" onclick="handleConceptCategory('source1', 'Gelişimsel Model')">Çocukluk Boyutları</button>
+            <button class="cat-chip" data-cat="Mesleki / Dolaylı Travma" onclick="handleConceptCategory('source1', 'Mesleki / Dolaylı Travma')">İkincil / Dolaylı</button>
+            <button class="cat-chip" data-cat="Tarihçe" onclick="handleConceptCategory('source1', 'Tarihçe')">Tarihçe</button>
+          </div>
+        </div>
+        <div class="concepts-matrix" id="concepts-grid-source1"></div>
+      </div>
+
+      <!-- Quiz View -->
+      <div class="module-quiz-view" style="display: none;">
+        <div class="quiz-container">
+          <div class="question-card-wrapper" id="question-card-container-source1"></div>
+          <div class="quiz-sidebar">
+            <div class="sidebar-card">
+              <h3>
+                <span>Soru Paleti</span>
+                <div style="display: flex; gap: 0.35rem;">
+                  <button class="btn-secondary" style="font-size: 0.725rem; padding: 0.2rem 0.45rem; color: #10b981; font-weight: 700;" onclick="passQuiz('source1')" title="Bu testi %100 doğru çözerek geç">⚡ Testi Geç</button>
+                  <button class="btn-secondary" style="font-size: 0.725rem; padding: 0.2rem 0.45rem;" onclick="filterMistakesOnly('source1')" title="Yalnızca yanlışları göster">⚠️ Yanlışlar</button>
+                  <button class="btn-secondary" style="font-size: 0.725rem; padding: 0.2rem 0.45rem;" onclick="resetQuiz('source1')">Sıfırla</button>
+                </div>
+              </h3>
+              <div class="palette-grid" id="palette-grid-source1"></div>
+              <div class="quiz-summary-stats" id="quiz-stats-source1"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ======================================================================
+         TAB 2: KAYNAK 2 (ABUtrauma3)
+         ====================================================================== -->
+    <section class="tab-pane" id="tab-source2">
+      <div class="module-header-banner">
+        <div class="module-header-info">
+          <span class="source-pill pill-s2">Kaynak 2 • ABUtrauma3.pptx</span>
+          <h2>Travma Tepkileri, TSSB, Büyüme (PTG) ve Risk Faktörleri</h2>
+          <p>O'Leary 3 işlevsellik seyri, ASB-TSSB %83 geçiş riski, Tedeschi & Calhoun'un 5 büyüme boyutu, pre/peri/post risk faktörleri ve Marmara depremi verileri.</p>
+        </div>
+        <div class="subtab-nav">
+          <button class="subtab-btn active" data-subtab="concepts" onclick="switchSubTab('source2', 'concepts')">
+            <span>📑</span> Kavram Tablosu
+          </button>
+          <button class="subtab-btn" data-subtab="quiz" onclick="switchSubTab('source2', 'quiz')">
+            <span>📝</span> 20 Çoktan Seçmeli Test
+          </button>
+        </div>
+      </div>
+
+      <!-- Concepts View -->
+      <div class="module-concepts-view">
+        <div class="concept-toolbar">
+          <div class="search-input-wrapper">
+            <span class="search-icon">🔍</span>
+            <input type="text" placeholder="Kaynak 2 kavramlarında ara (ör. O'Leary, PTG, Gaziler, Pre-travmatik, Marmara)..." oninput="handleConceptSearch('source2', this.value)">
+          </div>
+          <div class="category-filter-chips">
+            <button class="cat-chip active" data-cat="all" onclick="handleConceptCategory('source2', 'all')">Tümü</button>
+            <button class="cat-chip" data-cat="Klinik Seyir" onclick="handleConceptCategory('source2', 'Klinik Seyir')">İşlevsellik Seyri</button>
+            <button class="cat-chip" data-cat="Pozitif Psikoloji" onclick="handleConceptCategory('source2', 'Pozitif Psikoloji')">Büyüme (PTG)</button>
+            <button class="cat-chip" data-cat="Risk Faktörleri" onclick="handleConceptCategory('source2', 'Risk Faktörleri')">Risk Faktörleri</button>
+            <button class="cat-chip" data-cat="Epidemiyoloji" onclick="handleConceptCategory('source2', 'Epidemiyoloji')">Yaygınlık & Afet</button>
+          </div>
+        </div>
+        <div class="concepts-matrix" id="concepts-grid-source2"></div>
+      </div>
+
+      <!-- Quiz View -->
+      <div class="module-quiz-view" style="display: none;">
+        <div class="quiz-container">
+          <div class="question-card-wrapper" id="question-card-container-source2"></div>
+          <div class="quiz-sidebar">
+            <div class="sidebar-card">
+              <h3>
+                <span>Soru Paleti</span>
+                <div style="display: flex; gap: 0.35rem;">
+                  <button class="btn-secondary" style="font-size: 0.725rem; padding: 0.2rem 0.45rem; color: #10b981; font-weight: 700;" onclick="passQuiz('source2')" title="Bu testi %100 doğru çözerek geç">⚡ Testi Geç</button>
+                  <button class="btn-secondary" style="font-size: 0.725rem; padding: 0.2rem 0.45rem;" onclick="filterMistakesOnly('source2')" title="Yalnızca yanlışları göster">⚠️ Yanlışlar</button>
+                  <button class="btn-secondary" style="font-size: 0.725rem; padding: 0.2rem 0.45rem;" onclick="resetQuiz('source2')">Sıfırla</button>
+                </div>
+              </h3>
+              <div class="palette-grid" id="palette-grid-source2"></div>
+              <div class="quiz-summary-stats" id="quiz-stats-source2"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ======================================================================
+         TAB 3: KAYNAK 3 (ABUtrauma4)
+         ====================================================================== -->
+    <section class="tab-pane" id="tab-source3">
+      <div class="module-header-banner">
+        <div class="module-header-info">
+          <span class="source-pill pill-s3">Kaynak 3 • ABUtrauma4.pptx</span>
+          <h2>Otonom Regülasyon, HPA Ekseni, ASB Tanısı ve Tarihçe</h2>
+          <p>Sempatik vs Parasempatik sistem, CRH-ACTH-Kortizol ekseni, amigdala-PFC-hipokampus ağları, DSM-5-TR ASB (9/14) ve antikiteden günümüze travma tarihi.</p>
+        </div>
+        <div class="subtab-nav">
+          <button class="subtab-btn active" data-subtab="concepts" onclick="switchSubTab('source3', 'concepts')">
+            <span>📑</span> Kavram Tablosu
+          </button>
+          <button class="subtab-btn" data-subtab="quiz" onclick="switchSubTab('source3', 'quiz')">
+            <span>📝</span> 20 Çoktan Seçmeli Test
+          </button>
+        </div>
+      </div>
+
+      <!-- Concepts View -->
+      <div class="module-concepts-view">
+        <div class="concept-toolbar">
+          <div class="search-input-wrapper">
+            <span class="search-icon">🔍</span>
+            <input type="text" placeholder="Kaynak 3 kavramlarında ara (ör. Sempatik, HPA, Kortizol, Amigdala, Pepys, Railway Spine)..." oninput="handleConceptSearch('source3', this.value)">
+          </div>
+          <div class="category-filter-chips">
+            <button class="cat-chip active" data-cat="all" onclick="handleConceptCategory('source3', 'all')">Tümü</button>
+            <button class="cat-chip" data-cat="Otonom Sistem" onclick="handleConceptCategory('source3', 'Otonom Sistem')">Otonom Sistem</button>
+            <button class="cat-chip" data-cat="Nöroanatomi" onclick="handleConceptCategory('source3', 'Nöroanatomi')">Beyin Devreleri</button>
+            <button class="cat-chip" data-cat="Endokrinoloji" onclick="handleConceptCategory('source3', 'Endokrinoloji')">HPA & Hormonlar</button>
+            <button class="cat-chip" data-cat="Tanı Kriteri" onclick="handleConceptCategory('source3', 'Tanı Kriteri')">ASB Kriterleri</button>
+            <button class="cat-chip" data-cat="Tarihçe" onclick="handleConceptCategory('source3', 'Tarihçe')">Tarihsel Süreç</button>
+          </div>
+        </div>
+        <div class="concepts-matrix" id="concepts-grid-source3"></div>
+      </div>
+
+      <!-- Quiz View -->
+      <div class="module-quiz-view" style="display: none;">
+        <div class="quiz-container">
+          <div class="question-card-wrapper" id="question-card-container-source3"></div>
+          <div class="quiz-sidebar">
+            <div class="sidebar-card">
+              <h3>
+                <span>Soru Paleti</span>
+                <div style="display: flex; gap: 0.35rem;">
+                  <button class="btn-secondary" style="font-size: 0.725rem; padding: 0.2rem 0.45rem; color: #10b981; font-weight: 700;" onclick="passQuiz('source3')" title="Bu testi %100 doğru çözerek geç">⚡ Testi Geç</button>
+                  <button class="btn-secondary" style="font-size: 0.725rem; padding: 0.2rem 0.45rem;" onclick="filterMistakesOnly('source3')" title="Yalnızca yanlışları göster">⚠️ Yanlışlar</button>
+                  <button class="btn-secondary" style="font-size: 0.725rem; padding: 0.2rem 0.45rem;" onclick="resetQuiz('source3')">Sıfırla</button>
+                </div>
+              </h3>
+              <div class="palette-grid" id="palette-grid-source3"></div>
+              <div class="quiz-summary-stats" id="quiz-stats-source3"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ======================================================================
+         TAB 4: KAYNAK 4 (ABUtrauma5)
+         ====================================================================== -->
+    <section class="tab-pane" id="tab-source4">
+      <div class="module-header-banner">
+        <div class="module-header-info">
+          <span class="source-pill pill-s4">Kaynak 4 • ABUtrauma5.pptx</span>
+          <h2>DSM-5-TR Kriter Setleri, Disosiasyon ve Klinik Ölçekler</h2>
+          <p>Kriter B (İntrüzyon), C (Kaçınma), D (Biliş/Duygudurum), E (Uyarılma), Disosiyatif alt tip, PDEQ, LEC-5, CTQ'nun 5 alt boyutu ve altın standartlar.</p>
+        </div>
+        <div class="subtab-nav">
+          <button class="subtab-btn active" data-subtab="concepts" onclick="switchSubTab('source4', 'concepts')">
+            <span>📑</span> Kavram Tablosu
+          </button>
+          <button class="subtab-btn" data-subtab="quiz" onclick="switchSubTab('source4', 'quiz')">
+            <span>📝</span> 20 Çoktan Seçmeli Test
+          </button>
+        </div>
+      </div>
+
+      <!-- Concepts View -->
+      <div class="module-concepts-view">
+        <div class="concept-toolbar">
+          <div class="search-input-wrapper">
+            <span class="search-icon">🔍</span>
+            <input type="text" placeholder="Kaynak 4 kavramlarında ara (ör. İntrüzyon, Kaçınma, Derealizasyon, CTQ, CAPS-5)..." oninput="handleConceptSearch('source4', this.value)">
+          </div>
+          <div class="category-filter-chips">
+            <button class="cat-chip active" data-cat="all" onclick="handleConceptCategory('source4', 'all')">Tümü</button>
+            <button class="cat-chip" data-cat="TSSB Tanı Kriteri" onclick="handleConceptCategory('source4', 'TSSB Tanı Kriteri')">DSM-5-TR Kriterleri</button>
+            <button class="cat-chip" data-cat="TSSB Alt Tipi" onclick="handleConceptCategory('source4', 'TSSB Alt Tipi')">Disosiyatif Alt Tip</button>
+            <button class="cat-chip" data-cat="Klinik Ölçek" onclick="handleConceptCategory('source4', 'Klinik Ölçek')">Ölçekler (CTQ, PDEQ, LEC)</button>
+            <button class="cat-chip" data-cat="Değerlendirme Araçları" onclick="handleConceptCategory('source4', 'Değerlendirme Araçları')">Altın Standartlar</button>
+          </div>
+        </div>
+        <div class="concepts-matrix" id="concepts-grid-source4"></div>
+      </div>
+
+      <!-- Quiz View -->
+      <div class="module-quiz-view" style="display: none;">
+        <div class="quiz-container">
+          <div class="question-card-wrapper" id="question-card-container-source4"></div>
+          <div class="quiz-sidebar">
+            <div class="sidebar-card">
+              <h3>
+                <span>Soru Paleti</span>
+                <div style="display: flex; gap: 0.35rem;">
+                  <button class="btn-secondary" style="font-size: 0.725rem; padding: 0.2rem 0.45rem; color: #10b981; font-weight: 700;" onclick="passQuiz('source4')" title="Bu testi %100 doğru çözerek geç">⚡ Testi Geç</button>
+                  <button class="btn-secondary" style="font-size: 0.725rem; padding: 0.2rem 0.45rem;" onclick="filterMistakesOnly('source4')" title="Yalnızca yanlışları göster">⚠️ Yanlışlar</button>
+                  <button class="btn-secondary" style="font-size: 0.725rem; padding: 0.2rem 0.45rem;" onclick="resetQuiz('source4')">Sıfırla</button>
+                </div>
+              </h3>
+              <div class="palette-grid" id="palette-grid-source4"></div>
+              <div class="quiz-summary-stats" id="quiz-stats-source4"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ======================================================================
+         TAB: BİLGİ KARTLARI (FLASHCARDS)
+         ====================================================================== -->
+    <section class="tab-pane" id="tab-flashcards">
+      <div class="hero-card" style="margin-bottom: 2rem;">
+        <span class="hero-badge">🗂️ 3D Akıllı Ezber & Hızlı Tekrar</span>
+        <h2>Travma Psikolojisi Bilgi Kartları</h2>
+        <p class="hero-desc">Dört kaynak sunumun en kritik kavram, formül, oran ve tanı ölçütlerini interaktif çevirmeli kartlarla pratik edin. Kartı çevirmek için üzerine tıklayabilir veya <kbd>Space</kbd> tuşuna basabilirsiniz.</p>
+      </div>
+      <div id="flashcard-render-container"></div>
+    </section>
+
+    <!-- ======================================================================
+         TAB: KLİNİK VAKA LABORATUVARI (CASE SIMULATOR)
+         ====================================================================== -->
+    <section class="tab-pane" id="tab-cases">
+      <div id="clinical-cases-render-container"></div>
+    </section>
+
+    <!-- ======================================================================
+         TAB: KARŞILAŞTIRMA MATRİSLERİ & HIZLI NOTLAR
+         ====================================================================== -->
+    <section class="tab-pane" id="tab-matrices">
+      <div id="matrices-render-container"></div>
+    </section>
+
+    <!-- ======================================================================
+         TAB 5: FINAL SINAVI (KAPSAMLI ORTA-ZOR)
+         ====================================================================== -->
+    <section class="tab-pane" id="tab-final">
+      <div class="exam-banner">
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
+          <div>
+            <span class="source-pill pill-final">🏆 4 Kaynak Sentezi • Kapsamlı Sınav</span>
+            <h2>PSYC 4115: Travma Psikolojisi Final Sınavı</h2>
+            <p style="color: var(--text-secondary); max-width: 850px; font-size: 0.95rem;">
+              Bu sınav, dört sunumun tamamını (Giriş, Tepkiler, Otonom & HPA Nörobiyolojisi, DSM-5-TR Kriterleri ve Ölçekler) kapsayan <strong>25 adet orta-zor düzeyde</strong> klinik vaka ve sentez sorusundan oluşur.
+            </p>
+
+            <div class="exam-mode-toggle">
+              <span style="font-size: 0.825rem; font-weight: 700; color: var(--text-muted);">Sınav Modu:</span>
+              <button class="toggle-switch-btn exam-mode-btn active" data-mode="learning" onclick="toggleFinalExamMode(false)">
+                💡 Öğrenme Modu (Anında Şık Analizi)
+              </button>
+              <button class="toggle-switch-btn exam-mode-btn" data-mode="exam" onclick="toggleFinalExamMode(true)">
+                ⏱️ Gerçek Sınav Simülasyonu (40 Dk Süreli)
+              </button>
+              <button class="btn-secondary" style="font-size: 0.8rem; padding: 0.4rem 0.85rem; color: #10b981; border-color: rgba(16, 185, 129, 0.4); font-weight: 700;" onclick="passQuiz('final')">
+                ⚡ Final Sınavını Geç (%100 Çöz)
+              </button>
+            </div>
+          </div>
+
+          <!-- Timer Bar (shown in exam mode) -->
+          <div style="display: flex; flex-direction: column; align-items: flex-end; gap: 0.5rem;">
+            <div class="exam-timer-bar" id="final-exam-timer-bar" style="display: none;">
+              <span>⏳ Kalan Süre:</span>
+              <span id="final-timer-clock" style="font-family: monospace; font-size: 1.1rem; color: #fbbf24;">40:00</span>
+            </div>
+            <button class="btn-primary" id="final-submit-btn" style="display: none; background: #f59e0b; color: #0f172a;" onclick="submitFinalExam()">
+              🏁 Sınavı Tamamla ve Notu Gör
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <div class="quiz-container">
+        <div class="question-card-wrapper" id="question-card-container-final"></div>
+        <div class="quiz-sidebar">
+          <div class="sidebar-card">
+            <h3>
+              <span>Final Sınavı Paleti</span>
+              <div style="display: flex; gap: 0.35rem;">
+                <button class="btn-secondary" style="font-size: 0.725rem; padding: 0.2rem 0.45rem; color: #10b981; font-weight: 700;" onclick="passQuiz('final')" title="Bu testi %100 doğru çözerek geç">⚡ Testi Geç</button>
+                  <button class="btn-secondary" style="font-size: 0.725rem; padding: 0.2rem 0.45rem;" onclick="filterMistakesOnly('final')" title="Yalnızca yanlışları göster">⚠️ Yanlışlar</button>
+                <button class="btn-secondary" style="font-size: 0.725rem; padding: 0.2rem 0.45rem;" onclick="resetQuiz('final')">Sıfırla</button>
+              </div>
+            </h3>
+            <div class="palette-grid" id="palette-grid-final" style="grid-template-columns: repeat(5, 1fr);"></div>
+            <div class="quiz-summary-stats" id="quiz-stats-final"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ======================================================================
+         TAB 6: BAŞARI & İSTATİSTİKLER (STATS)
+         ====================================================================== -->
+    <section class="tab-pane" id="tab-stats">
+      <div id="stats-content-container"></div>
+    </section>
+
+  </main>
+
+  <!-- ========================================================================
+       FOOTER
+       ======================================================================== -->
+  <footer class="site-footer">
+    <div style="max-width: 1200px; margin: 0 auto;">
+      <p><strong>PSYC 4115: The Psychology of Trauma</strong> • İnteraktif Ders, Vaka & Sınav Portalı</p>
+      <p>Ders Sorumluları: Dr. Cansu Aykaç Kemik & Dr. Ömer Orhun Ercan • Kaynaklar: ABUtrauma1ve2, ABUtrauma3, ABUtrauma4, ABUtrauma5</p>
+      <p style="font-size: 0.775rem; color: var(--text-muted); margin-top: 0.5rem;">
+        60 Akıllı Bilgi Kartı, Adım Adım Klinik Vaka Simülatörü, Karşılaştırma Matrisleri ve 105 Ayrıntılı Açıklamalı Soru ile zenginleştirilmiştir.
+      </p>
+    </div>
+  </footer>
+
+  <!-- ========================================================================
+       DATA SCRIPTS & CONTROLLER
+       ======================================================================== -->
+  <script src="js/data_concepts.js"></script>
+  <script src="js/data_q1.js"></script>
+  <script src="js/data_q2.js"></script>
+  <script src="js/data_q3.js"></script>
+  <script src="js/data_q4.js"></script>
+  <script src="js/data_final.js"></script>
+  <script src="js/data_flashcards.js"></script>
+  <script src="js/data_clinical_cases.js"></script>
+  <script src="js/data_summaries.js"></script>
+  <script src="js/app.js"></script>
+
+  <!-- ========================================================================
+       MASTER STUDY BOOKLET MODAL (105 Soru & Ayrıntılı Çözüm Kitapçığı)
+       ======================================================================== -->
+  <div class="booklet-modal" id="booklet-modal" style="display: none;">
+    <div class="booklet-backdrop" onclick="closeStudyBooklet()"></div>
+    <div class="booklet-dialog">
+      <div class="booklet-header">
+        <div class="booklet-title-group">
+          <span class="source-pill pill-final">📖 Akredite Çalışma Kitapçığı</span>
+          <h3>PSYC 4115: 105 Soru, Çözüm & Çeldirici Analiz Kitapçığı</h3>
+          <p>Dört ders sunumu ve Final Sınavının tüm soruları, doğru şıkları ve her seçeneğin bilimsel mantıksal gerekçeleri.</p>
+        </div>
+        <div class="booklet-header-btns">
+          <button class="btn-secondary" onclick="window.print()" title="Yazdır veya PDF olarak kaydet">🖨️ Yazdır / PDF</button>
+          <button class="action-icon-btn" onclick="closeStudyBooklet()" title="Kapat (Esc)" style="font-size: 1.25rem;">✕</button>
+        </div>
+      </div>
+
+      <div class="booklet-toolbar">
+        <div class="booklet-filters">
+          <button class="booklet-filter-btn active" data-src="all" onclick="filterBookletSource('all')">Tüm Sorular (105)</button>
+          <button class="booklet-filter-btn" data-src="source1" onclick="filterBookletSource('source1')">Kaynak 1 (20)</button>
+          <button class="booklet-filter-btn" data-src="source2" onclick="filterBookletSource('source2')">Kaynak 2 (20)</button>
+          <button class="booklet-filter-btn" data-src="source3" onclick="filterBookletSource('source3')">Kaynak 3 (20)</button>
+          <button class="booklet-filter-btn" data-src="source4" onclick="filterBookletSource('source4')">Kaynak 4 (20)</button>
+          <button class="booklet-filter-btn" data-src="final" onclick="filterBookletSource('final')">Final Sınavı (25)</button>
+        </div>
+        <div class="booklet-search-wrapper">
+          <span class="search-icon">🔍</span>
+          <input type="text" id="booklet-search-input" placeholder="Soru metni, kavram veya şıklarda ara..." oninput="handleBookletSearch(this.value)">
+        </div>
+        <span class="booklet-counter-pill" id="booklet-match-count">105 Soru Listeleniyor</span>
+      </div>
+
+      <div class="booklet-body" id="booklet-questions-list"></div>
+    </div>
+  </div>
+
+</body>
+</html>

@@ -1,0 +1,1025 @@
+==============================
+FILE: ABUtrauma1ve2_Engl.pptx
+==============================
+--- Slide 1 ---
+The Psychology of Trauma
+PSYC 4115
+Week 1: Course Overview and Review
+Week 2: Introduction to Psychological Trauma
+Cansu AYKAÇ KEMİK, Clinical Neuropsychologist, PhD
+E-mail: cansuaykac@gmail.com
+
+--- Slide 2 ---
+About Me
+Dr. Ömer Orhun Ercan, MD
+Psychiatry Clinic, İzmir
+Psychology Intern
+
+--- Slide 3 ---
+About Me
+EFPSA Representative for Turkey
+Organising Committee Member, 27th EFPSA Congress
+EFPSA Alumni
+
+--- Slide 4 ---
+About Me
+
+--- Slide 5 ---
+About Me
+Graduate research on trauma at Dokuz Eylül University
+Master’s research: post-traumatic growth and neuropsychological processes
+Doctoral research: PTSD and neuroendocrine processes
+
+--- Slide 6 ---
+About Me
+Field coordination and psychosocial support in disaster response
+Field Coordinator, Manavgat Wildfire Response
+Soma Mine Disaster Response
+İzmir Earthquake Response
+COVID-19 Response
+Kahramanmaraş Earthquake Response
+
+--- Slide 7 ---
+About Me
+Training in trauma-focused therapies
+İstanbul Bilgi University Graduate Programs and World Human Relief
+Training in EMDR, CBT, and Gestalt approaches
+Clinical work with OCD and anxiety disorders; psychosocial support in disasters and crises; training in Emotion-Focused Couples Therapy and Sexual Therapy.
+
+--- Slide 8 ---
+Psychology of Trauma
+Course Aim
+This course introduces psychological trauma and psychological, neurobiological, and behavioural responses to traumatic experiences.
+We will examine individual differences in responses to traumatic experiences, including common stress reactions and clinically significant difficulties.
+We will also discuss risk and protective factors, trauma-related clinical processes, and post-traumatic growth.
+The course introduces psychosocial support in trauma, crisis, and disaster settings, along with relevant clinical and ethical principles.
+Cansu AYKAÇ KEMİK, Clinical Neuropsychologist, PhD
+
+--- Slide 9 ---
+Psychology of Trauma
+Course Content
+Definitions and classification of psychological trauma
+Psychological and physiological responses to traumatic experiences
+Diagnostic criteria and epidemiology of acute stress disorder and PTSD
+PTSD: neuroanatomical, neurochemical, neuroendocrine, genetic, and epigenetic processes
+Resilience and recovery
+Post-traumatic growth
+Cansu AYKAÇ KEMİK, Clinical Neuropsychologist, PhD
+
+--- Slide 10 ---
+Introduction to Psychological Trauma
+PSYC 4115
+Week 2: Introduction to Psychological Trauma
+Cansu AYKAÇ KEMİK, Clinical Neuropsychologist, PhD
+
+--- Slide 11 ---
+What Do We Mean by Traumatic Experiences?
+Psychological trauma can follow exposure to an event involving actual or threatened death, serious injury, or sexual violence. Responses vary across people and contexts.
+Exposure may involve directly experiencing or witnessing an event, learning that it happened to someone close, or repeated/extreme exposure to aversive details through one’s work.
+The effects of trauma may extend across families and communities through social, developmental, and contextual pathways. Biological mechanisms remain an active area of research.
+Adversity may arise from deliberate harm, accidents, neglect, or wider social conditions.
+Traumatic events may result from natural hazards, accidents, interpersonal violence, or other human actions.
+11
+Sources: American Psychiatric Association (2022); Brewin et al. (2009); Yehuda & Lehrner (2018)
+
+--- Slide 12 ---
+During and Immediately After a Traumatic Event
+Attention, memory, and familiar coping strategies may be affected during or soon after an overwhelming event.
+People may experience fear, helplessness, horror, numbness, or confusion.
+The event may disrupt a person’s sense of safety and predictability.
+Some people describe a clear “before and after.” This is one possible experience, not a universal response.
+12
+Source: Ozer et al. (2003)
+
+--- Slide 13 ---
+Trauma and Adversity
+DSM-5-TR Criterion A events involve actual or threatened death, serious injury, or sexual violence.
+The likelihood of PTSD varies by event type and by personal, social, and contextual factors.
+Other serious adversities, including chronic abuse, discrimination, and deprivation, can also have substantial effects on mental health, even when they do not meet Criterion A.
+Describe these experiences precisely. “Big T” and “little t” are informal labels, not diagnostic categories.
+13
+Sources: Alisic et al. (2014); McLaughlin & Sheridan (2016)
+
+--- Slide 14 ---
+Collective Trauma
+Collective trauma describes events or conditions that affect groups and communities and may shape shared memory, identity, and social life. The term is used across research traditions and does not refer to a single diagnosis.
+War, genocide, and political oppression
+Forced migration and displacement
+Racism, discrimination, and gender-based violence
+14
+Source: Hirschberger (2018)
+
+--- Slide 15 ---
+Collective Trauma
+PTSD risk differs across event types. Interpersonal violence is associated with elevated risk in many studies, but no simple rule ranks every human-caused event against every natural disaster.
+15
+Source: Liu et al. (2017), WHO World Mental Health Surveys
+
+--- Slide 16 ---
+Secondary traumatic stress describes trauma-related symptoms that can arise through indirect exposure, especially repeated professional exposure to traumatic details. Learning about an event through media does not automatically meet DSM-5-TR PTSD Criterion A.
+Indirect exposure to others’ experiences
+Repeated exposure to distressing media content
+Repeated occupational exposure to traumatic details
+Secondary Traumatic Stress
+16
+Sources: Brewin et al. (2009); Cocker & Joss (2016)
+
+--- Slide 17 ---
+Compassion Fatigue and Secondary Traumatic Stress
+“Compassion fatigue” is used in different ways across the literature. It may refer to emotional exhaustion, secondary traumatic stress, or a combination of work-related strain and exposure to others’ suffering.
+Emotional exhaustion or numbing
+Irritability
+Withdrawal or reduced engagement
+Sleep problems or physical tension
+17
+Source: Cocker & Joss (2016)
+
+--- Slide 18 ---
+Complex Trauma and Complex PTSD
+Complex trauma commonly refers to repeated or prolonged exposure to traumatic events, often in situations that are difficult to escape.
+Complex PTSD is a specific diagnosis in ICD-11. It includes core PTSD symptoms and disturbances in self-organisation. Complex trauma and Complex PTSD are related terms, but they are not interchangeable.
+18
+Sources: WHO (2024); Karatzias et al. (2017)
+
+--- Slide 19 ---
+Childhood Adversity and Trauma
+Adverse experiences during childhood or adolescence may:
+involve threat, violence, loss, deprivation, or instability in caregiving and the environment;
+occur once or repeatedly over time; and
+affect emotional, cognitive, social, and physical development. Use “trauma” with care and attend to the child’s experience and context.
+19
+Source: McLaughlin & Sheridan (2016)
+
+--- Slide 20 ---
+Childhood Adversity
+20
+Dimension
+Examples
+Threat
+Physical or sexual abuse; domestic violence; witnessing violence
+Deprivation
+Physical or emotional neglect; limited social or cognitive stimulation
+Loss
+Death of a parent; abandonment; separation from a caregiver
+Unpredictability or instability
+Frequent changes in caregiving; unstable family environments
+Chronic environmental adversity
+War, forced migration, community violence, severe socioeconomic adversity
+Interpersonal victimisation
+Peer bullying, dating violence, and other interpersonal violence
+Source: McLaughlin & Sheridan (2016)
+
+--- Slide 21 ---
+PTSD is associated, at the group level, with differences in threat processing and brain structure or function. Findings vary across studies and do not describe every person exposed to trauma.
+Findings in PTSD research
+Neuroimaging research has reported:
+altered amygdala responses to threat
+smaller hippocampal volume in some PTSD samples
+differences in prefrontal activity and regulation
+alterations in stress-response systems, including the HPA axis
+Neuroscience: Traumatic Stress
+21
+Sources: O’Doherty et al. (2015); McLaughlin et al. (2019)
+
+--- Slide 22 ---
+Individual Responses and Recovery
+Traumatic experiences may involve loss, danger, or major disruption.
+People may feel helpless, although reactions differ.
+Some people develop persistent symptoms; others recover with time or support. Risk and protective factors operate at individual, interpersonal, and social levels.
+Exposure to the same event does not lead to the same outcome for everyone.
+Post-traumatic growth is reported by some people and can coexist with distress. It is a possibility, not an expected outcome.
+22
+Source: Wu et al. (2019)
+
+--- Slide 23 ---
+From Experience to Clinical Definition
+A Clinical Definition
+The word “trauma” is used broadly in everyday and clinical language. PTSD, however, has specific diagnostic criteria, including a defined exposure criterion.
+23
+Sources: American Psychiatric Association (2022); Brewin et al. (2009)
+
+--- Slide 24 ---
+PTSD and the DSM
+Historical Background
+Historical accounts of reactions to war and loss
+“Shell shock” during World War I
+“War neurosis” and “battle fatigue” during World War II
+“Gross stress reaction” in DSM-I (1952)
+“Transient situational disturbance” in DSM-II (1968)
+PTSD was introduced in DSM-III in 1980
+The criteria were revised in later editions; the current text revision is DSM-5-TR (2022).
+24
+Source: US National Center for PTSD, History of PTSD
+
+--- Slide 25 ---
+Preparation for the Next Class
+Explore the Childhood Trauma Questionnaire (CTQ).
+Before our next class
+Find and review the Life Events Checklist for DSM-5 (LEC-5).
+E-mail:
+cansuaykac@gmail.com
+25
+Sources: Bernstein et al. (2003); US National Center for PTSD, LEC-5
+
+--- Slide 26 ---
+Selected References
+American Psychiatric Association. DSM-5-TR. 2022. PTSD exposure criteria.
+Brewin CR et al. Reformulating PTSD for DSM-V: life after Criterion A. J Trauma Stress. 2009. PMID 19743480.
+Ozer EJ et al. Predictors of PTSD and symptoms in adults: a meta-analysis. Psychol Bull. 2003. PMID 12555794.
+Alisic E et al. PTSD in trauma-exposed children and adolescents: meta-analysis. Br J Psychiatry. 2014. PMID 24785767.
+McLaughlin KA, Sheridan MA. Beyond cumulative risk: a dimensional approach to childhood adversity. Curr Dir Psychol Sci. 2016. PMID 27773969.
+Hirschberger G. Collective trauma and the social construction of meaning. Front Psychol. 2018. PMID 30147669.
+Liu H et al. PTSD by traumatic experience type: WHO World Mental Health Surveys. JAMA Psychiatry. 2017. PMID 28055082.
+Cocker F, Joss N. Compassion fatigue: a systematic review. Int J Environ Res Public Health. 2016. PMID 27338436.
+World Health Organization. ICD-11 Clinical Descriptions and Diagnostic Requirements. 2024.
+Karatzias T et al. Evidence on ICD-11 PTSD and complex PTSD. Eur J Psychotraumatol. 2017. PMID 29029837.
+O’Doherty DCM et al. MRI structural volumes in PTSD: systematic review and meta-analysis. Psychiatry Res. 2015. PMID 25735885.
+Yehuda R, Lehrner A. Intergenerational transmission of trauma effects. World Psychiatry. 2018. PMID 30192087.
+Wu X et al. Posttraumatic growth: systematic review and meta-analysis. J Affect Disord. 2019. PMID 30268956.
+Bernstein DP et al. Childhood Trauma Questionnaire short form: development and validation. Child Abuse Negl. 2003. PMID 12615092. LEC-5: US National Center for PTSD.
+26
+
+--- Slide 27 ---
+Thank You
+
+==============================
+FILE: ABUtrauma3.pptx
+==============================
+--- Slide 1 ---
+The Psychology of Trauma
+Cansu AYKAÇ KEMİK, Clinical Neuropsychologist, PhD
+E-mail: cansuaykac@gmail.com
+
+--- Slide 2 ---
+What Do We Mean by Traumatic Experiences?
+Psychological trauma can follow exposure to an event involving actual or threatened death, serious injury, or sexual violence.
+Exposure may involve directly experiencing or witnessing an event,
+learning that it happened to someone close,
+or repeated extreme exposure to aversive details through one’s work.
+2
+Sources: American Psychiatric Association (2022); Brewin et al. (2009); Yehuda & Lehrner (2018)
+
+--- Slide 3 ---
+What Do We Mean by Traumatic Experiences?
+Adversity may arise from deliberate harm, accidents, neglect, or wider social conditions.
+Traumatic events may result from natural hazards, accidents, interpersonal violence, or other human actions.
+Other serious issues, such as chronic abuse, discrimination, and neglect.
+3
+Sources: American Psychiatric Association (2022); Brewin et al. (2009); Yehuda & Lehrner (2018)
+
+--- Slide 4 ---
+4
+Sources: Brewin et al. (2009); Cocker & Joss (2016)
+Secondary Traumatic Stress
+
+--- Slide 5 ---
+5
+Sources: Brewin et al. (2009); Cocker & Joss (2016)
+Secondary Traumatic Stress
+
+--- Slide 6 ---
+This condition may result from exposure to the suffering of others or be a combination of that and secondary trauma.
+Emotional exhaustion or desensitization
+Irritability
+Withdrawal from others, social isolation
+Sleep problems or physical symptoms
+6
+Source: Cocker & Joss (2016)
+Compassion Fatigue
+
+--- Slide 7 ---
+Collective Trauma
+Collective trauma describes events or conditions that affect groups and communities and may shape shared memory, identity, and social life.
+War, genocide, and political oppression
+Forced migration and displacement
+Racism, discrimination and gender-based violence
+Interpersonal violence is associated with elevated risk in PTSD
+7
+Source: Hirschberger (2018)
+
+--- Slide 8 ---
+8
+Source: Liu et al. (2017), WHO World Mental Health Surveys
+
+--- Slide 9 ---
+Complex Trauma
+Complex trauma commonly refers to repeated or prolonged exposure to traumatic events, often in situations that are difficult to escape.
+Complex PTSD is a specific diagnosis in ICD-11.
+It includes core PTSD symptoms and disturbances in self-organisation.
+9
+Sources: WHO (2024); Karatzias et al. (2017)
+
+--- Slide 10 ---
+Childhood Trauma
+10
+Sources: WHO (2024); Karatzias et al. (2017)
+
+--- Slide 11 ---
+11
+Source: McLaughlin & Sheridan (2016)
+
+--- Slide 12 ---
+Traumatic Experiences
+Natural or human-induced
+Intentional, unintentional, or due to negligence
+Can be directly experienced or witnessed
+Can be transmitted from generation to generation or horizontally
+Brings about losses and changes
+Confronts the individual with their own powerlessness
+(Türksoy,
+2003)
+12
+Source: Ozer et al. (2003)
+
+--- Slide 13 ---
+Traumatic Experiences
+Find and review the Life Events Checklist for DSM-5 (LEC-5).
+13
+Sources: Alisic et al. (2014); McLaughlin & Sheridan (2016)
+
+--- Slide 14 ---
+The Psychology of Trauma
+Cansu AYKAÇ KEMİK, Clinical Neuropsychologist, PhD
+E-mail: cansuaykac@gmail.com
+Psychological Responses to Trauma
+
+--- Slide 15 ---
+During and Immediately After a Traumatic Event
+Attention, memory, and familiar coping strategies may be affected during or soon after an overwhelming event.
+Some people describe a clear “before and after.”
+Helplessness, horror
+The sense of security is undermined
+15
+Source: Ozer et al. (2003)
+
+--- Slide 16 ---
+Reactions to Traumatic Events
+Normal responses to an abnormal situation
+If the difficulty or dysfunction increases, it is a pathological response
+
+--- Slide 17 ---
+Reactions to Traumatic Events
+O'Leary et al., 1998
+Continuing to live with low functioning
+Returning to the previous level of functioning
+Increase in functioning
+
+--- Slide 18 ---
+Acute Stress Disorder
+Definition
+Clinical symptoms are almost same with
+Post-Traumatic Stress Disorder
+The most fundamental difference between ASD and
+PTSD is duration (3 days–1 month).
+First described in DSM-IV
+A risk factor for PTSD.
+A study conducted with individuals who had been involved in traffic accidents indicates that 83% of those diagnosed with ASB were later diagnosed with PTSD (Keane et al., 2006).
+
+--- Slide 19 ---
+Post-Traumatic Stress Disorder
+Fear-based symptoms (avoidance, hypervigilance, flashbacks)
+Traumatic exposure is also followed by dysphoric, anhedonic symptoms
+Aggressive symptoms, guilt/shame symptoms, dissociative symptoms
+Negative appraisals about oneself and the world
+Significant distress or impairment in functioning
+
+--- Slide 20 ---
+Post-Traumatic Growth
+Definition
+Post-traumatic growth is a positive change in functioning resulting from the struggle to resolve a major life crisis (Calhoun et al., 2000).
+In existential psychology, “transformative power of suffering” (Tedeschi & Calhoun, 2004)
+
+--- Slide 21 ---
+Post-Traumatic Growth
+There are five subdimensions:
+Change in
+self-perception
+Change in
+interpersonal relationships
+Change in
+philosophy of life
+Change in
+recognizing new opportunities
+Change in
+belief system
+It has been researched in individuals who have experienced a life-threatening illness, functional impairment, the loss of and grief over a loved one, as well as in war veterans, victims of natural disasters, traffic accidents, and domestic and non-domestic violence, and in professionals working with these individuals.
+
+--- Slide 22 ---
+Individual Responses and Recovery
+Being exposed to the same event does not lead to the same outcome for everyone.
+Pre-traumatic Risk Factors;
+Low socioeconomic status
+Family history of depression or another psychiatric disorder
+Low educational level
+Being female
+Belonging to a racial minority
+Personality traits
+(Kirkpatrick & Heller, 2014) (Ditlevsen & Elklit, 2012) (Asnaani, 2010)
+
+--- Slide 23 ---
+Individual Responses and Recovery
+Peritraumatic Risk Factors:
+Intensity, variety, frequency, and duration of trauma
+Severity of the traumatic event and perceived threat to life
+Peritraumatic dissociation
+In a 2015 study conducted with veterans, it was found that the “change in life philosophy” subscale of the PTG data scored higher than the other subscales. This was thought to be due to the intensity of their confrontation with death. The same study found a strong correlation between levels of cognitive flexibility and post-traumatic growth (Hijazi et al., 2015).
+
+--- Slide 24 ---
+Individual Responses and Recovery
+Post-traumatic Risk Factors:
+Lack of social support
+A stressful life (unemployment following the trauma)
+Delays in diagnosis and treatment
+It has been observed that when individuals with a low socioeconomic status are provided with adequate economic resources following a traumatic event, their likelihood of developing PTD increases (Manove et al., 2019).
+
+--- Slide 25 ---
+Reactions to Traumatic Events
+Between 41% and 86% of the population experiences at least one traumatic event in their lifetime.
+However, a large proportion is able to recover without developing any medical or psychopathological disorders (Steudte-Schmiedgen, 2016).
+Prevalence rates have also been found to be in the 30–40 percent range among teams providing post-disaster support (Kross et al., 2008).
+While prevalence rates were around 20 percent in community screenings conducted after the August 17, 1999, earthquake, they were found to be 63 percent among those who sought treatment (Öztürk MO, 2015).
+
+--- Slide 26 ---
+Reactions to Traumatic Events
+The development of PTSD following a traumatic experience; depends on factors such as personality traits, social support, and socioeconomic status (Abraido-Lanza et al., 1998).
+Some studies indicate a negative correlation between age and PTG (60).
+There is evidence that direct exposure to a traumatic event increases the likelihood of PTG. (Shakespeare-Finch & Lurie-Beck, 2014).
+The type and nature of the trauma experienced also influence PTG.
+2019 meta-analysis found that individuals exposed to occupational trauma and those living with a terminal illness (such as cancer) exhibited higher rates of PTSD compared to those who had been in a traffic accident (Wu et al., 2019).
+
+--- Slide 27 ---
+Traumatic Experiences
+Before our next class
+PCL-5 (
+PTSD Checklist for
+DSM-5),
+The Peritraumatic Dissociative Experiences Questionnaire (PDEQ)
+27
+Sources: Alisic et al. (2014); McLaughlin & Sheridan (2016)
+
+--- Slide 28 ---
+Selected References
+American Psychiatric Association. DSM-5-TR. 2022. PTSD exposure criteria.
+Brewin CR et al. Reformulating PTSD for DSM-V: life after Criterion A. J Trauma Stress. 2009. PMID 19743480.
+Ozer EJ et al. Predictors of PTSD and symptoms in adults: a meta-analysis. Psychol Bull. 2003. PMID 12555794.
+Alisic E et al. PTSD in trauma-exposed children and adolescents: meta-analysis. Br J Psychiatry. 2014. PMID 24785767.
+McLaughlin KA, Sheridan MA. Beyond cumulative risk: a dimensional approach to childhood adversity. Curr Dir Psychol Sci. 2016. PMID 27773969.
+Hirschberger G. Collective trauma and the social construction of meaning. Front Psychol. 2018. PMID 30147669.
+Liu H et al. PTSD by traumatic experience type: WHO World Mental Health Surveys. JAMA Psychiatry. 2017. PMID 28055082.
+Cocker F, Joss N. Compassion fatigue: a systematic review. Int J Environ Res Public Health. 2016. PMID 27338436.
+World Health Organization. ICD-11 Clinical Descriptions and Diagnostic Requirements. 2024.
+Karatzias T et al. Evidence on ICD-11 PTSD and complex PTSD. Eur J Psychotraumatol. 2017. PMID 29029837.
+O’Doherty DCM et al. MRI structural volumes in PTSD: systematic review and meta-analysis. Psychiatry Res. 2015. PMID 25735885.
+Yehuda R, Lehrner A. Intergenerational transmission of trauma effects. World Psychiatry. 2018. PMID 30192087.
+Wu X et al. Posttraumatic growth: systematic review and meta-analysis. J Affect Disord. 2019. PMID 30268956.
+Bernstein DP et al. Childhood Trauma Questionnaire short form: development and validation. Child Abuse Negl. 2003. PMID 12615092. LEC-5: US National Center for PTSD.
+26
+
+--- Slide 29 ---
+Thank You
+
+==============================
+FILE: ABUtrauma4.pptx
+==============================
+--- Slide 1 ---
+The Psychology of Trauma
+Cansu AYKAÇ KEMİK, Clinical Neuropsychologist, PhD
+E-mail: cansuaykac@gmail.com
+
+--- Slide 2 ---
+Course Schedule
+Acute stress response and the autonomic nervous system
+Definitions of acute stress disorder (ASD) and PTSD
+Summarizing diagnostic changes from DSM-IV to DSM-5-TR and the ICD-11 approach
+Trauma exposure, risk factors for PTSD
+Examining concepts through the CTQ, PDEQ, and DSM-IV LEC
+
+--- Slide 3 ---
+Neural Regulation of Autonomic Stress Responses
+
+--- Slide 4 ---
+Neural Regulation of Autonomic Stress Responses
+
+--- Slide 5 ---
+Neural Regulation of Autonomic Stress Responses
+Sympathetic Nervous System
+It is the “fight-or-flight” system. It is activated in situations of danger or stress. Its purpose is to mobilize energy.
+Effects:
+Heart rate increases
+Pupils dilate
+Breathing quickens
+Digestion slows down
+Adrenaline is released from the adrenal glands
+This system prepares the body to be “ready and alert” in the face of a threat.
+
+--- Slide 6 ---
+Neural Regulation of Autonomic Stress Responses
+Parasympathetic Nervous System
+It is active during relaxation and rest
+Effects:
+Heart rate slows
+Breathing becomes calmer
+Digestion speeds up
+Pupils constrict
+Energy is conserved and the body’s systems return to balance
+
+--- Slide 7 ---
+Neural Regulation of Autonomic Stress Responses
+Brain circuits involved
+Brainstem and hypothalamus:
+Integrate information about the body’s internal state and help organize autonomic and endocrine responses.
+Cortisol:
+It is the primary stress hormone. In the short term, it facilitates energy mobilization and suppresses the immune system. In the long term, however, it can have negative effects on memory, the immune system, and mood.
+
+--- Slide 8 ---
+Neural Regulation of Autonomic Stress Responses
+Brain circuits involved
+Brainstem and hypothalamus,
+Cortisol and
+Amygdala
+It plays a key role in threat perception. It is active during rapid emotional responses.
+Contributes to processing emotionally significant and threat-related information.
+Prefrontal Cortex
+It is involved in cognitive control, decision-making, and emotional regulation. Its function may be suppressed under chronic stress.
+
+--- Slide 9 ---
+Neural Regulation of Autonomic Stress Responses
+Brain circuits involved
+Hippocampus:
+It is associated with memory. It is sensitive to cortisol. Prolonged stress can lead to a loss of volume in this region.
+Connects stress regulation with memory and contextual information.
+Medial prefrontal cortex:
+Participates in limbic regulation of hypothalamic and brainstem stress-response pathways.
+These regions work as
+interconnected networks
+, rather than as isolated centers. Their overlap with memory and reward circuits helps shape stress responses according to prior experience and anticipated outcomes.
+
+--- Slide 10 ---
+Neural Regulation of Autonomic Stress Responses
+Hypothalamus:
+It initiates the stress response. When a threat is detected, it activates the HPA axis (hypothalamic-pituitary-adrenal axis).
+HPA Axis:
+Hypothalamus → Secretes CRH
+Pituitary gland → Secretes ACTH
+Adrenal gland → Secretes cortisol
+
+--- Slide 11 ---
+Neural Regulation of Autonomic Stress Responses
+Key idea
+Acute stress is the process by which the brain integrates information about stressors and the body’s state across its neural networks, thereby regulating the autonomic nervous system and the HPA axis in a manner appropriate to the situation.
+The two major response systems
+Autonomic nervous system:
+Helps regulate rapid bodily responses to a challenge.
+The stress response is a coordinated brain–body process. It engages the
+autonomic nervous system
+and the
+hypothalamic–pituitary–adrenocortical (HPA) axis
+.
+HPA axis:
+Produces an endocrine response through the hypothalamus, pituitary gland, and adrenal cortex.
+The systems are distinct but closely connected. Their relative contribution depends partly on the nature and intensity of the stressor.
+Their activity is adjusted according to the type and intensity of the stressor; the response is not a fixed “fight-or-flight” pattern.
+
+--- Slide 12 ---
+Neural Regulation of Autonomic Stress Responses
+The acute stress response
+serves an adaptive function:
+It helps the organism generate a response to environmental or physical challenges.
+The psychological stress response is influenced by evaluation and past experience.
+Limbic structures, memory, and reward circuits shape this response depending on the context.
+The autonomic nervous system and the HPA response are interconnected.
+
+--- Slide 13 ---
+
+
+--- Slide 14 ---
+Acute Stress Reaction and Acute Stress Disorder
+Chronic stress has been found to be associated with the sensitization of the HPA and autonomic responses.
+Increased arousal, startle responses, changes in sleep and attention, emotional fluctuations, and ruminating on the event may be observed.
+ASD, on the other hand, is a diagnostic category for post-traumatic symptoms that meet specific criteria regarding duration, number of symptoms, and the threshold for functional impairment.
+14
+
+--- Slide 15 ---
+When is a clinical evaluation necessary?
+In clinical terms, “trauma” is not merely the everyday meaning of a shocking or distressing event.
+If symptoms are severe, persistent, or worsening, and are significantly impairing daily functioning, an evaluation is necessary.
+Priority is given to safety risks, thoughts of self-harm, severe dissociation, substance use, or inability to meet basic needs.
+For diagnosis, the nature of the event and the symptoms are examined, as well as duration, functional impairment, differential diagnosis, and context.
+15
+
+--- Slide 16 ---
+ASB: DSM-5-TR Diagnostic Framework
+Trauma criteria:
+Death or threat of death, serious injury, or exposure to sexual violence; witnessing such an event; learning that it happened to a close relative; or occupational repeated exposure.
+Duration of symptoms: at least 3 days and up to 1 month following the traumatic event.
+At least 9 of the 14 symptoms; any combination from the domains of negative emotional states, dissociation, avoidance, and hyperarousal.
+Symptoms must cause clinically significant distress or impairment; they must not be better explained by substance use, medication, or a medical condition.
+16
+
+--- Slide 17 ---
+Change in the definition of ASD: DSM-IV → DSM-5
+It was first defined in the DSM-IV.
+DSM-5: Dissociation is no longer a required criterion.
+Nine of the 14 symptoms and a time window of 3 days to 1 month were introduced.
+DSM-5-TR did not change the core diagnostic criteria for ASD.
+17
+
+--- Slide 18 ---
+Clinical Definition of Psychological Trauma
+In clinical terms, “trauma” is not merely the everyday meaning of a shocking or distressing event.
+DSM-5-TR Criterion A for PTSD defines forms of exposure to a threat of death, serious injury, or sexual violence.
+An event that is extremely distressing for an individual may not meet Criterion A; nor does every exposure that meets Criterion A necessarily lead to PTSD.
+18
+
+--- Slide 19 ---
+The Importance of Defining ASD
+ASD helps identify severe distress and facilitate access to clinical support within the first month.
+A risk factor for PTSD
+PTSD can develop even in people without ASD; however, some of those diagnosed with ASD go on to recover.
+19
+
+--- Slide 20 ---
+History of PTSD
+Herodotus recounts that the person who witnessed his friend’s death was blind.
+Samuel Pepys and His Observations of the Great Fire of London in 1666
+Samuel Pepys, a survivor of this great disaster that left a large portion of London’s population homeless and reduced the city to ashes, vividly described the delayed psychological effects of the trauma in his diaries.
+•    Pepys wrote that even months after the fire, he struggled to sleep at night, constantly saw flames in his dreams, and would wake up in a state of great terror.
+•    Unable to shake off the psychology of the fire, he would panic at the slightest whiff of smoke or crackling sound, overcome by the fear that the city was once again engulfed in flames.
+20
+
+--- Slide 21 ---
+History of PTSD
+The Industrial Revolution and the
+“Railway Spine”
+The impact of psychological trauma on people was observed on a much larger scale in the 19th century through train accidents and fires.
+The fact that people who survived these accidents without physical injury (or with only minor scrapes) experienced intense fear, palpitations, and paralysis-like sensations for months was referred to at the time as the “Railway Spine” or Erichsen’s Disease.
+This period marked the first institutionalized discussion
+of the effects of trauma on the nervous system.
+21
+
+--- Slide 22 ---
+History of PTSD
+Wars and the Medicalization of the Concept
+It was through wars that trauma came to be scientifically defined.
+Shell Shock
+: Observed in soldiers exposed to intense artillery fire and explosions in the trenches during
+World War I.
+World War II
+and afterward:
+war neurosis, stress reactions
+, and long-term symptoms among veterans.
+The 1970s:
+Clinical and social movements involving Vietnam veterans and other trauma-exposed groups accelerated the process of diagnostic recognition.
+In 1980, Post-Traumatic Stress Disorder (PTSD) was officially recognized as a disorder in the DSM-III (Diagnostic and Statistical Manual of Mental Disorders).
+22
+
+--- Slide 23 ---
+History of PTSD
+The DSM-5-TR retains the four symptom clusters and the broad range of symptoms; dissociative symptoms are defined as a separate feature.
+The ICD-11 defines PTSD with a narrower set of core symptoms: re-experiencing, avoidance, and a persistent sense of threat.
+The ICD-11 also defines complex PTSD as PTSD with additional symptoms of difficulty regulating emotions, a negative self-image, and relationship difficulties.
+23
+
+--- Slide 24 ---
+Key changes to the PTSD criteria from DSM-IV to DSM-5
+Indirect exposure was specified to include learning that a traumatic event occurred to a
+close family member or close friend
+.
+In cases involving death or threatened death, it must have been violent or accidental.
+Criterion A was also expanded to include
+repeated or extreme exposure to aversive details
+of traumatic events, typically in the course of professional duties.
+This does not include exposure through electronic media, television unless it is work-related.
+24
+
+--- Slide 25 ---
+Key changes to the PTSD criteria from DSM-IV to DSM-5
+Persistent negative alterations in cognition and mood
+were introduced as a distinct symptom cluster.
+A
+dissociative subtype
+was added for individuals with PTSD who experience persistent or recurrent depersonalization or derealization.
+Re-experiencing may involve
+dissociative reactions
+, including flashbacks, in which the person feels or acts as though the traumatic event were recurring.
+25
+
+--- Slide 26 ---
+The Importance of Defining PTSD
+Early identification and timely intervention are important for reducing the risk of persistent symptoms and supporting recovery.
+People with PTSD may have approximately four times the risk of a suicide attempt compared with the general population.
+An estimated 41–86% of people experience at least one potentially traumatic event during their lifetime.
+Lifetime PTSD prevalence has been estimated at 7–8% in U.S.A. population-based studies, and symptoms may persist for years without appropriate treatment.
+Genetic, biological, and psychosocial factors are being investigated to explain why PTSD develops in some individuals but not others.
+26
+
+--- Slide 27 ---
+The Importance of Defining PTSD
+It provides a common clinical language: symptoms, duration, exposure, and impact on function can be discussed in a systematic manner.
+It has prevented symptoms experienced after war and violence from being interpreted as personal weakness.
+It can help explain a person’s life; the diagnosis is not the cause of the person’s identity or all of their behaviors.
+It can help explain a person’s life; the diagnosis is not the cause of the person’s identity or all of their behaviors.
+27
+
+--- Slide 28 ---
+The Importance of Defining PTSD
+Trauma-focused psychotherapies, cognitive behavioral therapies and eye movement desensitization and reprocessing as well as certain pharmacological treatments, have been shown to reduce PTSD symptoms.
+28
+
+==============================
+FILE: ABUtrauma5.pptx
+==============================
+--- Slide 1 ---
+devamı
+
+--- Slide 2 ---
+PTSD Criterion Sets in the DSM-5-TR
+Re-experiencing
+Avoidance
+Negative changes in cognition and mood
+Changes in arousal and reactivity Dissociative Symptoms
+2
+
+--- Slide 3 ---
+PTSD Criterion Sets in the DSM-5-TR
+Criterion B: Intrusion Symptoms
+The presence of one or more of the following symptoms associated with the traumatic event, beginning after the event:
+Recurrent, involuntary, and intrusive distressing memories of the traumatic event.
+Recurrent distressing dreams in which the content and/or affect of the dream are related to the traumatic event.
+Dissociative reactions (e.g., flashbacks) in which the individual feels or acts as if the traumatic event were recurring.
+Intense or prolonged psychological distress at exposure to internal or external cues that symbolize or resemble an aspect of the traumatic event.
+Marked physiological reactions to internal or external cues that symbolize or resemble an aspect of the traumatic event.
+3
+
+--- Slide 4 ---
+4
+
+--- Slide 5 ---
+PTSD Criterion Sets in the DSM-5-TR
+Criterion C: Avoidance
+Persistent avoidance of stimuli associated with the traumatic event, beginning after the event occurred, as evidenced by one or both of the following:
+Avoidance of, or efforts to avoid, distressing memories, thoughts, or feelings about or closely associated with the traumatic event.
+Avoidance of, or efforts to avoid, external reminders (e.g., people, places, conversations, activities, objects, or situations) that arouse distressing memories, thoughts, or feelings about or closely associated with the traumatic event.
+5
+
+--- Slide 6 ---
+PTSD Criterion Sets in the DSM-5-TR
+Criterion D: Negative Alterations in Cognitions and Mood
+Two or more of the following
+Inability to remember an important aspect of the traumatic event.
+Persistent and exaggerated negative beliefs or expectations about oneself, others, or the world.
+Persistent, distorted cognitions about the cause or consequences of the traumatic event that lead the individual to blame themselves or others.
+A persistent negative emotional state.
+Markedly diminished interest in or participation in significant activities.
+Feelings of detachment or estrangement from others.
+Persistent difficulty experiencing positive emotions.
+6
+
+--- Slide 7 ---
+PTSD Criterion Sets in the DSM-5-TR
+Criterion E: Alterations in Arousal and Reactivity
+Two or more of the following:
+Irritable behavior and angry outbursts, typically expressed as verbal or physical aggression toward people or objects, with little or no provocation.
+Reckless or self-destructive behavior.
+Hypervigilance.
+Exaggerated startle response.
+Problems with concentration.
+Sleep disturbance
+7
+
+--- Slide 8 ---
+PTSD Criterion Sets in the DSM-5-TR
+Criterion F: Duration of Symptoms
+The disturbance lasts for more than 1 month.
+Criterion G: Clinical Significance
+The disturbance causes clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+Criterion H: Exclusion
+The disturbance is not attributable to the physiological effects of a substance or another medical condition.
+8
+
+--- Slide 9 ---
+PTSD Criterion Sets in the DSM-5-TR
+With Dissociative Symptoms
+The persistent or recurrent presence of one or both of the following:
+Depersonalization:
+Experiences of unreality or detachment from one’s mental processes or body, such as feeling like an outside observer of oneself, or feeling that one’s body is unreal or that time is passing slowly.
+Derealization:
+Recurrent experiences of unreality or detachment from one’s surroundings, such as feeling that people or objects are unreal.
+9
+
+--- Slide 10 ---
+10
+
+--- Slide 11 ---
+PTSD Criterion Sets in the DSM-5-TR
+11
+
+--- Slide 12 ---
+Peritraumatic Dissociative Experiences Questionnaire
+What was happening felt unreal, as if I were dreaming or watching a movie or a game.
+I felt as though I were a spectator watching the event or observing what was happening from outside my body.
+12
+
+--- Slide 13 ---
+Peritraumatic Dissociative Experiences Questionnaire
+I felt as though I were a spectator watching the event or observing what was happening from outside my body.
+I experienced strange bodily sensations; my body felt larger or smaller than usual, or I felt detached from it.
+It felt as though the events were happening to someone else.
+13
+
+--- Slide 14 ---
+Peritraumatic Dissociative Experiences Questionnaire
+I felt as though I were a spectator watching the event or observing what was happening from outside my body.
+I experienced strange bodily sensations; my body felt larger or smaller than usual, or I felt detached from it.
+It felt as though the events were happening to someone else.
+14
+
+--- Slide 15 ---
+DSM-IV Life Events Checklist
+LEC screens for types of incidents that have been experienced, witnessed, learned to have happened to a loved one, or encountered in a professional capacity.
+Natural disaster (e.g., earthquake, flood, deluge, tornado)
+Fire or explosion
+Accident while traveling (e.g., car accident, boat accident, train collision, plane crash)
+Serious accident at work, at home, or during a recreational activity
+Exposure to toxic substances (e.g., hazardous chemicals, radiation)
+
+--- Slide 16 ---
+DSM-IV Life Events Checklist
+Physical assault (being attacked, punched, kicked, slapped, beaten)
+Armed assault (being shot, stabbed, threatened with a gun or bomb)
+Sexual assault (attempted rape, any sexual act committed by force or under threat of harm)
+Other unwanted or distressing sexual experiences
+
+--- Slide 17 ---
+DSM-IV Life Events Checklist
+Physical assault (e.g., being attacked, punched, kicked, slapped, beaten)
+Armed assault (e.g., being shot, stabbed, threatened with a gun or bomb)
+Sexual assault (rape, attempted rape, any sexual act committed by force or under threat of harm)
+Other unwanted or distressing sexual experiences
+
+--- Slide 18 ---
+Childhood Trauma Questionnaire
+Emotional and physical neglect:
+I couldn’t find enough food.
+I had to wear dirty clothes.
+My parents were too drunk or high on drugs to take care of me.
+I thought my parents didn’t want me to be born.
+
+--- Slide 19 ---
+Childhood Trauma Questionnaire
+Emotional abuse:
+People in my family called me “stupid,” “lazy,” or “ugly.”
+People in my family said hurtful or demeaning things to me.
+I felt that someone in my family hated me.
+I believe I was emotionally abused.
+
+--- Slide 20 ---
+Childhood Trauma Questionnaire
+Physical Abuse
+A family member hit me so hard that I had to go to the doctor or the hospital.
+A family member hit me so hard that it left bruises or marks.
+I was punished with a belt, a stick, a cord, or a hard object.
+I believe I was physically abused.
+I was beaten so severely that a teacher, neighbor, or doctor would have noticed.
+
+--- Slide 21 ---
+Childhood Trauma Questionnaire
+Sexual Abuse
+Someone tried to touch me in a sexual way or make someone else touch me.
+They threatened to hurt me to make me do sexual things.
+Someone made me do sexual things or watch sexual things.
+Someone sexually harassed me.
+Support about child sexual abuse
+
+--- Slide 22 ---
+Childhood Trauma Questionnaire
+Positive Situations
+There was someone in my family who made me feel important and special.
+There was someone who looked out for me and protected me.
+There was nothing in my family that I wanted to change.
+The people in my family looked out for one another.
+I had a perfect childhood.
+The people in our family felt close to one another.
+I had the best family in the world.
+I felt loved.
+My family was a source of strength and support for me.
+There was someone who would take me to the doctor when needed.
+
+--- Slide 23 ---
+For Next Course
+PCL-5 (
+PTSD Checklist for
+DSM-5)
+CAPS-5
+Attention
+If you feel triggered, please reach out for support
+cansuaykac@gmail.com
+23
+
+--- Slide 24 ---
+What
+are
+traumatic
+experiences
+?
+What
+are
+the
+types
+of
+trauma
+and
+their
+responses
+?
+Acute stress response and the autonomic nervous system
+What are the potential effects? What individual differences influence these responses to trauma?
+PTSD: Definition,
+pretraumatic-peritraumatic-posttraumatic
+risk
+factors
+,
+comorbidities
+, how it
+differs
+from
+acute
+stress
+disorder
+Give
+example
+of post-
+traumatic
+growth
+24
+Information About Midterm
+Exam:
+Multiple-choice 20 questions
+Good luck on the exam
+
+--- Slide 25 ---
+Information About Midterm Exam:
+Multiple-choice 20 questions
+What are traumatic experiences? What are the types of trauma and their responses?
+Acute stress response and the autonomic nervous system
+What are the potential effects? What individual differences influence these responses to trauma?
+PTSD: Definition, pretraumatic-peritraumatic-posttraumatic risk factors, comorbidities, how it differs from acute stress disorder
+Give example of post-traumatic growth
+Good luck on the exam
+
+--- Slide 26 ---
+Selected References
+Ulrich-Lai, Y. M., & Herman, J. P. (2009). Neural regulation of endocrine and autonomic stress responses.
+Nature Reviews Neuroscience, 10
+, 397–409.
+American Psychiatric Association. (2022).
+Diagnostic and statistical manual of mental disorders
+(5th ed., text rev.; DSM-5-TR).
+Bryant, R. A. (2011). A review of acute stress disorder in DSM-5.
+Focus, 9
+(3), 335–350.
+Brewin, C. R., Andrews, B., & Valentine, J. D. (2000). Meta-analysis of risk factors for PTSD in trauma-exposed adults.
+Journal of Consulting and Clinical Psychology, 68
+, 748–766.
+Ozer, E. J., et al. (2003). Predictors of PTSD and symptoms in adults: A meta-analysis.
+Psychological Bulletin, 129
+, 52–73.
+Yehuda, R., et al. (2015). Post-traumatic stress disorder.
+Nature Reviews Disease Primers, 1
+, 15057.
+Koenen, K. C., et al. (2017). PTSD in the World Mental Health Surveys.
+Psychological Medicine, 47
+, 2260–2274.
+Shalev, A., Liberzon, I., & Marmar, C. (2017). Post-traumatic stress disorder.
+The Lancet, 390
+, 248–260.
+Gray, M. J., et al. (2004). Psychometric properties of the Life Events Checklist.
+Assessment, 11
+, 330–341.
+Bernstein, D. P., et al. (2003). Development and validation of a brief screening version of the Childhood Trauma Questionnaire.
+Child Abuse & Neglect, 27
+, 169–190.
+Marmar, C. R., et al. (1997). Peritraumatic Dissociative Experiences Questionnaire (PDEQ). In
+Assessing psychological trauma and PTSD
+. Guilford Press.
+Birmes, P., et al. (2005). Validation of the Peritraumatic Dissociative Experiences Questionnaire.
+European Psychiatry, 20
+, 145–151.
+Şar, V., et al. (2012). Turkish validation of the Childhood Trauma Questionnaire.
+Turkish Journal of Medical Sciences, 32
+, 1054–1063.
+Alisic, E., Zalta, A. K., van Wesel, F., Larsen, S. E., Hafstad, G. S., Hassanpour, K., & Smid, G. E. (2014). Rates of post-traumatic stress disorder in trauma-exposed children and adolescents: Meta-analysis.
+The British Journal of Psychiatry, 204
+(5), 335–340.
+McLaughlin, K. A., & Sheridan, M. A. (2016). Beyond cumulative risk: A dimensional approach to childhood adversity.
+Current Directions in Psychological Science, 25
+(4), 239–245.
+Hirschberger, G. (2018). Collective trauma and the social construction of meaning.
+Frontiers in Psychology, 9
+, 1441.
+26
+
+--- Slide 27 ---
+Thank you for your attention
+27
+

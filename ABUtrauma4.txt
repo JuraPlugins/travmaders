@@ -1,0 +1,247 @@
+=== ABUtrauma4.pptx ===
+
+--- Slide 1 ---
+The Psychology of Trauma
+Cansu AYKAÇ KEMİK, Clinical Neuropsychologist, PhD
+E-mail: cansuaykac@gmail.com
+
+--- Slide 2 ---
+Course Schedule
+Acute stress response and the autonomic nervous system
+Definitions of acute stress disorder (ASD) and PTSD
+Summarizing diagnostic changes from DSM-IV to DSM-5-TR and the ICD-11 approach
+Trauma exposure, risk factors for PTSD
+Examining concepts through the CTQ, PDEQ, and DSM-IV LEC
+
+--- Slide 3 ---
+Neural Regulation of Autonomic Stress Responses
+
+--- Slide 4 ---
+Neural Regulation of Autonomic Stress Responses
+
+--- Slide 5 ---
+Neural Regulation of Autonomic Stress Responses
+Sympathetic Nervous System
+It is the “fight-or-flight” system. It is activated in situations of danger or stress. Its purpose is to mobilize energy.
+Effects:
+Heart rate increases
+Pupils dilate
+Breathing quickens
+Digestion slows down
+Adrenaline is released from the adrenal glands
+This system prepares the body to be “ready and alert” in the face of a threat.
+
+--- Slide 6 ---
+Neural Regulation of Autonomic Stress Responses
+Parasympathetic Nervous System
+It is active during relaxation and rest
+Effects:
+Heart rate slows
+Breathing becomes calmer
+Digestion speeds up
+Pupils constrict
+Energy is conserved and the body’s systems return to balance
+
+--- Slide 7 ---
+Neural Regulation of Autonomic Stress Responses
+Brain circuits involved
+Brainstem and hypothalamus:
+Integrate information about the body’s internal state and help organize autonomic and endocrine responses.
+Cortisol:
+It is the primary stress hormone. In the short term, it facilitates energy mobilization and suppresses the immune system. In the long term, however, it can have negative effects on memory, the immune system, and mood.
+
+--- Slide 8 ---
+Neural Regulation of Autonomic Stress Responses
+Brain circuits involved
+Brainstem and hypothalamus,
+Cortisol and
+Amygdala
+It plays a key role in threat perception. It is active during rapid emotional responses.
+Contributes to processing emotionally significant and threat-related information.
+Prefrontal Cortex
+It is involved in cognitive control, decision-making, and emotional regulation. Its function may be suppressed under chronic stress.
+
+--- Slide 9 ---
+Neural Regulation of Autonomic Stress Responses
+Brain circuits involved
+Hippocampus:
+It is associated with memory. It is sensitive to cortisol. Prolonged stress can lead to a loss of volume in this region.
+Connects stress regulation with memory and contextual information.
+Medial prefrontal cortex:
+Participates in limbic regulation of hypothalamic and brainstem stress-response pathways.
+These regions work as
+interconnected networks
+, rather than as isolated centers. Their overlap with memory and reward circuits helps shape stress responses according to prior experience and anticipated outcomes.
+
+--- Slide 10 ---
+Neural Regulation of Autonomic Stress Responses
+Hypothalamus:
+It initiates the stress response. When a threat is detected, it activates the HPA axis (hypothalamic-pituitary-adrenal axis).
+HPA Axis:
+Hypothalamus → Secretes CRH
+Pituitary gland → Secretes ACTH
+Adrenal gland → Secretes cortisol
+
+--- Slide 11 ---
+Neural Regulation of Autonomic Stress Responses
+Key idea
+Acute stress is the process by which the brain integrates information about stressors and the body’s state across its neural networks, thereby regulating the autonomic nervous system and the HPA axis in a manner appropriate to the situation.
+The two major response systems
+Autonomic nervous system:
+Helps regulate rapid bodily responses to a challenge.
+The stress response is a coordinated brain–body process. It engages the
+autonomic nervous system
+and the
+hypothalamic–pituitary–adrenocortical (HPA) axis
+.
+HPA axis:
+Produces an endocrine response through the hypothalamus, pituitary gland, and adrenal cortex.
+The systems are distinct but closely connected. Their relative contribution depends partly on the nature and intensity of the stressor.
+Their activity is adjusted according to the type and intensity of the stressor; the response is not a fixed “fight-or-flight” pattern.
+
+--- Slide 12 ---
+Neural Regulation of Autonomic Stress Responses
+The acute stress response
+serves an adaptive function:
+It helps the organism generate a response to environmental or physical challenges.
+The psychological stress response is influenced by evaluation and past experience.
+Limbic structures, memory, and reward circuits shape this response depending on the context.
+The autonomic nervous system and the HPA response are interconnected.
+
+--- Slide 13 ---
+
+
+--- Slide 14 ---
+Acute Stress Reaction and Acute Stress Disorder
+Chronic stress has been found to be associated with the sensitization of the HPA and autonomic responses.
+Increased arousal, startle responses, changes in sleep and attention, emotional fluctuations, and ruminating on the event may be observed.
+ASD, on the other hand, is a diagnostic category for post-traumatic symptoms that meet specific criteria regarding duration, number of symptoms, and the threshold for functional impairment.
+14
+
+--- Slide 15 ---
+When is a clinical evaluation necessary?
+In clinical terms, “trauma” is not merely the everyday meaning of a shocking or distressing event.
+If symptoms are severe, persistent, or worsening, and are significantly impairing daily functioning, an evaluation is necessary.
+Priority is given to safety risks, thoughts of self-harm, severe dissociation, substance use, or inability to meet basic needs.
+For diagnosis, the nature of the event and the symptoms are examined, as well as duration, functional impairment, differential diagnosis, and context.
+15
+
+--- Slide 16 ---
+ASB: DSM-5-TR Diagnostic Framework
+Trauma criteria:
+Death or threat of death, serious injury, or exposure to sexual violence; witnessing such an event; learning that it happened to a close relative; or occupational repeated exposure.
+Duration of symptoms: at least 3 days and up to 1 month following the traumatic event.
+At least 9 of the 14 symptoms; any combination from the domains of negative emotional states, dissociation, avoidance, and hyperarousal.
+Symptoms must cause clinically significant distress or impairment; they must not be better explained by substance use, medication, or a medical condition.
+16
+
+--- Slide 17 ---
+Change in the definition of ASD: DSM-IV → DSM-5
+It was first defined in the DSM-IV.
+DSM-5: Dissociation is no longer a required criterion.
+Nine of the 14 symptoms and a time window of 3 days to 1 month were introduced.
+DSM-5-TR did not change the core diagnostic criteria for ASD.
+17
+
+--- Slide 18 ---
+Clinical Definition of Psychological Trauma
+In clinical terms, “trauma” is not merely the everyday meaning of a shocking or distressing event.
+DSM-5-TR Criterion A for PTSD defines forms of exposure to a threat of death, serious injury, or sexual violence.
+An event that is extremely distressing for an individual may not meet Criterion A; nor does every exposure that meets Criterion A necessarily lead to PTSD.
+18
+
+--- Slide 19 ---
+The Importance of Defining ASD
+ASD helps identify severe distress and facilitate access to clinical support within the first month.
+A risk factor for PTSD
+PTSD can develop even in people without ASD; however, some of those diagnosed with ASD go on to recover.
+19
+
+--- Slide 20 ---
+History of PTSD
+Herodotus recounts that the person who witnessed his friend’s death was blind.
+Samuel Pepys and His Observations of the Great Fire of London in 1666
+Samuel Pepys, a survivor of this great disaster that left a large portion of London’s population homeless and reduced the city to ashes, vividly described the delayed psychological effects of the trauma in his diaries.
+•    Pepys wrote that even months after the fire, he struggled to sleep at night, constantly saw flames in his dreams, and would wake up in a state of great terror.
+•    Unable to shake off the psychology of the fire, he would panic at the slightest whiff of smoke or crackling sound, overcome by the fear that the city was once again engulfed in flames.
+20
+
+--- Slide 21 ---
+History of PTSD
+The Industrial Revolution and the
+“Railway Spine”
+The impact of psychological trauma on people was observed on a much larger scale in the 19th century through train accidents and fires.
+The fact that people who survived these accidents without physical injury (or with only minor scrapes) experienced intense fear, palpitations, and paralysis-like sensations for months was referred to at the time as the “Railway Spine” or Erichsen’s Disease.
+This period marked the first institutionalized discussion
+of the effects of trauma on the nervous system.
+21
+
+--- Slide 22 ---
+History of PTSD
+Wars and the Medicalization of the Concept
+It was through wars that trauma came to be scientifically defined.
+Shell Shock
+: Observed in soldiers exposed to intense artillery fire and explosions in the trenches during
+World War I.
+World War II
+and afterward:
+war neurosis, stress reactions
+, and long-term symptoms among veterans.
+The 1970s:
+Clinical and social movements involving Vietnam veterans and other trauma-exposed groups accelerated the process of diagnostic recognition.
+In 1980, Post-Traumatic Stress Disorder (PTSD) was officially recognized as a disorder in the DSM-III (Diagnostic and Statistical Manual of Mental Disorders).
+22
+
+--- Slide 23 ---
+History of PTSD
+The DSM-5-TR retains the four symptom clusters and the broad range of symptoms; dissociative symptoms are defined as a separate feature.
+The ICD-11 defines PTSD with a narrower set of core symptoms: re-experiencing, avoidance, and a persistent sense of threat.
+The ICD-11 also defines complex PTSD as PTSD with additional symptoms of difficulty regulating emotions, a negative self-image, and relationship difficulties.
+23
+
+--- Slide 24 ---
+Key changes to the PTSD criteria from DSM-IV to DSM-5
+Indirect exposure was specified to include learning that a traumatic event occurred to a
+close family member or close friend
+.
+In cases involving death or threatened death, it must have been violent or accidental.
+Criterion A was also expanded to include
+repeated or extreme exposure to aversive details
+of traumatic events, typically in the course of professional duties.
+This does not include exposure through electronic media, television unless it is work-related.
+24
+
+--- Slide 25 ---
+Key changes to the PTSD criteria from DSM-IV to DSM-5
+Persistent negative alterations in cognition and mood
+were introduced as a distinct symptom cluster.
+A
+dissociative subtype
+was added for individuals with PTSD who experience persistent or recurrent depersonalization or derealization.
+Re-experiencing may involve
+dissociative reactions
+, including flashbacks, in which the person feels or acts as though the traumatic event were recurring.
+25
+
+--- Slide 26 ---
+The Importance of Defining PTSD
+Early identification and timely intervention are important for reducing the risk of persistent symptoms and supporting recovery.
+People with PTSD may have approximately four times the risk of a suicide attempt compared with the general population.
+An estimated 41–86% of people experience at least one potentially traumatic event during their lifetime.
+Lifetime PTSD prevalence has been estimated at 7–8% in U.S.A. population-based studies, and symptoms may persist for years without appropriate treatment.
+Genetic, biological, and psychosocial factors are being investigated to explain why PTSD develops in some individuals but not others.
+26
+
+--- Slide 27 ---
+The Importance of Defining PTSD
+It provides a common clinical language: symptoms, duration, exposure, and impact on function can be discussed in a systematic manner.
+It has prevented symptoms experienced after war and violence from being interpreted as personal weakness.
+It can help explain a person’s life; the diagnosis is not the cause of the person’s identity or all of their behaviors.
+It can help explain a person’s life; the diagnosis is not the cause of the person’s identity or all of their behaviors.
+27
+
+--- Slide 28 ---
+The Importance of Defining PTSD
+Trauma-focused psychotherapies, cognitive behavioral therapies and eye movement desensitization and reprocessing as well as certain pharmacological treatments, have been shown to reduce PTSD symptoms.
+28
+
