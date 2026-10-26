@@ -669,9 +669,9 @@ function filterMistakesOnly(sourceKey) {
   if (wrongQIndex > -1) {
     APP_STATE.quizStates[sourceKey].currentIndex = wrongQIndex;
     renderQuizQuestion(sourceKey);
-  } else {
-    alert('Tebrikler! Bu modülde hiç yanlışınız bulunmuyor veya henüz test çözmediniz.');
   }
+}
+
 // Auto-pass/solve quiz with 100% correct answers
 function passQuiz(sourceKey) {
   const source = SOURCE_MAP[sourceKey];
